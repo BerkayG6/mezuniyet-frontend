@@ -1,0 +1,17 @@
+PROBLEM ŞU:
+Aslında bu yıla göre değişen bir problem bu yüzden time series model kullanmak gerek fakat sadece capacity veya enrollment change rate ile yılı alarak yapamayız. Bu yüzden bu change rateleri etkileyen diğer faktörleri bulup bir formül geliştirmek gerek. Daha sonrasında da bana göre enrollment change rate ve yılı kullanarak time series modeli kullanmamız gerekecek. O formülü geliştirmemiz gerekiyor ve galiba machine learning kullancaz.
+----Sadece machine learning kullanırsak 2025 yılı için de tahmin verileri gerekecek. Bu regresyon veya sınıflandırma için de geçerli olduğu için zor.
+----Time series model için sadece enrollment veya capacity change rate kullanmak da eksiklik yaratacak çünkü bölümün popülerliği veya diğer veriler bu durumu etkiliyor.
+----------ÖNEMLİ ----> Yapay zekada predict kısmında girilecek verileri tahmin eden yapay zeka yapılmalı. Yani öznenin girmeyeceği verileri,
+yapay zeka tahmin edecek bu şekilde yapay zeka zincirleri oluşacak. Yapay zeka topluluğu.
+
+--------------------------------------------------------------------------------
+Yapay Zeka Python 
+ML1 --> İlk denemeler yapıldı. Yıllar department içinde sıralanmadığı için change_rate'ler yanlış hesaplandı.
+ML2 --> Boş
+ML3 --> 2025 Verisi olmadığı için tahmini veriler girilerek hesaplanmaya çalışıldı
+ML4 --> Kategorik verilerin hepsi get_dummies ile ayrıldı fakat hepsini yapmalı mıyız ?
+ML5 --> Şuanlık ana kod fakat yine kategorik veriler kafa karıştırıcı hangisi çıkarılmalı veya
+get_dummies olmalı bilmiyorum.
+ML6--> BOŞ
+ML10--> Şuanlık ana kod bu oldu. Kategorik verilere girilmedi hepsi kaldırıldı. Tahmin etme verileri bulunmalı.

@@ -1,0 +1,1036 @@
+DEPARTMENT_GROUP,RANK_CHANGE,SCORE_CHANGE,POPULARITY_CHANGE,FIELD_RATE_mean,FIRST_RANK_mean,FIRST_SCORE_mean,DEPARTMENT_ID_count,TREND_CATEGORY
+  Bilgi ve Belge Yönetimi (%50 Ýndirimli),-0.2436,0.2046,16.1667,0.6767,441764.8333,276.8467,1.3333,Strongly Growing
+  Uluslararasý Ýþletme Yönetimi,0.1452,0.0007,12.0156,0.668,676310.2,250.604,1.0,Strongly Growing
+  Taký Tasarýmý,-0.1145,0.1444,10.7778,0.7575,447314.0,278.5775,1.0,Strongly Growing
+Gemi Ýnþaatý ve Gemi Makineleri Mühendisliði (UOLP-Strathclyde) (Ýngilizce) (UOLP) (Ücretli),0.2877,0.0319,6.8982,0.6125,59811.45,428.6425,2.0,Strongly Growing
+  Ýþ Saðlýðý ve Güvenliði (%50 Ýndirimli),0.1614,0.0376,6.3333,0.7625,472976.75,249.8075,1.5,Strongly Growing
+  Seyahat Ýþletmeciliði,0.1046,0.0545,6.2727,0.8383,437055.0833,278.2783,1.1667,Strongly Growing
+Ýngiliz Dili ve Edebiyatý (Ýngilizce) (UOLP-Uluslararasý Saraybosna Üniversitesi) (Ücretli),0.6219,0.06,6.2381,0.53,86900.25,389.375,1.0,Strongly Growing
+  Yaban Hayatý Ekolojisi ve Yönetimi,0.3114,-0.0526,4.5129,0.802,330621.6,284.102,1.0,Strongly Growing
+  Tohum Bilimi ve Teknolojisi,0.0274,0.0194,4.5125,0.81,457210.0,250.178,1.0,Strongly Growing
+  Süt Teknolojisi,0.0075,0.0315,3.6817,0.812,304043.7,286.414,1.8,Strongly Growing
+Sanat ve Kültür Yönetimi (%50 Ýndirimli),0.2784,0.0267,3.4456,0.535,294110.75,293.6525,2.0,Strongly Growing
+  Muhasebe ve Finans Yönetimi (%50 Ýndirimli),0.0679,0.0709,3.3805,0.7325,502512.2075,274.16,2.75,Strongly Growing
+Biliþim Sistemleri Mühendisliði (Burslu),0.885,0.0092,3.2,0.6433,153687.25,377.06,2.0,Strongly Growing
+  Ýletiþim Sanatlarý (Burslu),3.4917,0.1097,2.697,0.7775,353979.0,292.6675,1.0,Strongly Growing
+  Basýn ve Yayýn (%50 Ýndirimli),-0.6668,0.6279,2.6,0.23,986120.5,227.395,1.0,Strongly Growing
+  Sermaye Piyasasý (%50 Ýndirimli),0.3042,0.0555,2.4412,0.7233,550369.3333,265.1733,1.0,Strongly Growing
+Egzersiz ve Spor Bilimleri (%50 Ýndirimli),0.2632,0.0067,2.3111,0.58,808001.5,236.86,1.0,Strongly Growing
+  Balýkçýlýk Teknolojisi Mühendisliði,0.0267,0.0149,2.0595,0.704,375287.9,269.314,1.8,Strongly Growing
+  Sigortacýlýk ve Risk Yönetimi,0.3017,-0.026,2.025,0.82,403770.4,288.074,1.0,Strongly Growing
+Tütün Eksperliði,0.2797,0.0039,2.025,0.82,222909.4,321.34,1.0,Strongly Growing
+  Pazarlama (ÝÖ),-0.2701,0.1644,1.871,0.73,243385.6667,313.2767,1.0,Strongly Growing
+  Tarýmsal Yapýlar ve Sulama,0.0513,0.0175,1.8403,0.845,327233.04,277.5217,6.8333,Strongly Growing
+  Rekreasyon (Açýköðretim),0.1082,-0.0029,1.7481,0.646,174358.6,333.9,2.0,Strongly Growing
+  Ýletiþim Tasarýmý ve Yönetimi (Ýngilizce) (%50 Ýndirimli),0.2967,0.0857,1.7102,0.732,250236.1,310.944,1.6,Strongly Growing
+  Sigortacýlýk ve Sosyal Güvenlik (%50 Ýndirimli),0.1556,0.0074,1.6667,0.65,604386.75,256.5325,1.0,Strongly Growing
+Spor Yöneticiliði (Yüksekokul) (%50 Ýndirimli),-0.1928,0.128,1.6316,0.69,491414.0,271.575,1.0,Strongly Growing
+  Tarih (Arapça),2.2049,0.0617,1.62,0.85,193451.6667,325.4683,1.0,Strongly Growing
+  Tekstil ve Moda Tasarýmý (%50 Ýndirimli),0.2389,0.0093,1.6195,0.79,143235.692,345.672,3.6,Strongly Growing
+  Yeni Medya ve Ýletiþim (Ýngilizce) (Ücretli),10.6965,0.1138,1.4836,0.7075,462994.3975,285.655,3.75,Strongly Growing
+  Elektronik ve Haberleþme Mühendisliði (Ýngilizce) (UOLP-New Jersey Institute of Technology) (Ücretli),0.085,0.0194,1.4452,0.65,24879.2,474.312,1.0,Strongly Growing
+Ýnsan Kaynaklarý Yönetimi (Ýngilizce) (%50 Ýndirimli),0.4574,0.0536,1.4283,0.6975,510883.875,279.26,1.5,Strongly Growing
+  Egzersiz ve Spor Bilimleri (%50 Ýndirimli),1.5063,-0.0431,1.3653,0.716,272095.3,343.796,3.2,Strongly Growing
+  Ayakkabý Tasarýmý ve Üretimi,0.0941,0.0194,1.3271,0.79,312256.0,302.398,1.0,Strongly Growing
+  Maliye (Açýköðretim),0.0688,0.0268,1.3207,0.828,112294.6,359.584,1.0,Strongly Growing
+  Ortez ve Protez (%50 Ýndirimli),-0.0259,0.0389,1.2652,0.7325,369755.0,267.54,1.25,Strongly Growing
+  Grafik Sanatlar (Açýköðretim),0.1464,-0.0076,1.2476,0.66,139600.6,344.744,1.0,Strongly Growing
+Havacýlýk Yönetimi (Yüksekokul) (%50 Ýndirimli),0.0891,0.0099,1.2302,0.748,437921.942,281.326,4.0,Strongly Growing
+Pilotaj (Ücretli),-0.0259,0.0841,1.2241,0.7633,83582.8333,407.1233,2.0,Strongly Growing
+  Organik Tarým Ýþletmeciliði,0.1159,0.0111,1.2098,0.802,381145.868,292.774,3.0,Strongly Growing
+  Bankacýlýk ve Sigortacýlýk (%50 Ýndirimli),0.0832,0.0602,1.1818,0.805,513432.625,274.395,2.75,Strongly Growing
+Antrenörlük Eðitimi (Yüksekokul) (%50 Ýndirimli),-0.5502,0.2399,1.1542,0.5433,412839.7233,280.1433,4.6667,Strongly Growing
+  Sinema ve Televizyon (%50 Ýndirimli),0.7303,-0.0133,1.153,0.68,218137.788,317.988,4.0,Strongly Growing
+  Siyaset Bilimi ve Kamu Yönetimi (Ýngilizce) (Açýköðretim),-0.0145,0.0248,1.0928,0.74,449348.118,284.356,13.4,Strongly Growing
+Televizyon Haberciliði ve Programcýlýðý (Fakülte) (Ýngilizce) (%50 Ýndirimli),0.4784,-0.0343,1.0683,0.4925,361952.75,292.95,3.5,Strongly Growing
+Ýslam Ekonomisi ve Finans(Ýngilizce)(%75 Ýndirimli  ),0.1815,-0.0087,1.0202,0.7433,373822.86,290.1717,2.5,Strongly Growing
+  Ermeni Dili ve Kültürü (Ermenice),0.7667,0.0443,1.0138,0.682,51992.5,321.61,1.6,Strongly Growing
+  Ýktisat (Ýngilizce) (Ücretli),0.2603,0.0507,1.0056,0.828,298982.024,309.724,10.0,Strongly Growing
+  Azerbaycan Türkçesi ve Edebiyatý,2.2911,-0.0059,0.9804,0.8167,341782.5,299.15,1.0,Strongly Growing
+Ergoterapi(Fakülte)(%75 Ýndirimli),0.2746,-0.0162,0.9055,0.816,318254.6,288.82,7.2,Strongly Growing
+Perfüzyon (Fakülte) (%50 Ýndirimli),0.2248,-0.0411,0.8633,0.838,309898.9,291.304,1.8,Strongly Growing
+  Lojistik Yönetimi,0.1193,0.0503,0.8538,0.815,424566.0025,290.2125,8.0,Strongly Growing
+  Reklamcýlýk (Açýköðretim),0.678,0.0116,0.8496,0.708,85168.1,357.486,1.2,Strongly Growing
+Biliþim Sistemleri Mühendisliði,0.0904,0.0384,0.8023,0.7567,130129.0283,368.825,3.5,Strongly Growing
+  Elektronik ve Haberleþme Mühendisliði (Ýngilizce) (UOLP-Uluslararasý Saraybosna Üniversitesi) (Ücretli),-0.3303,0.0913,0.727,0.5225,94074.4975,398.5675,3.75,Strongly Growing
+  Sosyal Hizmet (Ýngilizce) (Burslu),0.6195,-0.0407,0.6768,0.8325,833017.75,243.99,1.0,Strongly Growing
+  Hindoloji,2.0667,-0.04,0.6484,0.828,16413.4,423.27,1.0,Strongly Growing
+  Gýda Teknolojisi,0.216,-0.0007,0.6445,0.846,391528.266,266.65,2.2,Strongly Growing
+  Hayvansal Üretim ve Teknolojileri (Ýngilizce),0.3031,-0.0222,0.6417,0.8067,341707.43,285.3167,2.3333,Strongly Growing
+  Müzecilik,-0.0631,0.0422,0.64,0.8667,231981.8333,315.2067,1.3333,Strongly Growing
+Su Ürünleri Mühendisliði (Ýngilizce),0.0959,0.0071,0.6368,0.8633,288225.3283,291.4633,13.5,Strongly Growing
+Yönetim Biliþim Sistemleri (Fakülte) (Uzaktan Öðretim) (Ücretli),0.0323,0.0507,0.6017,0.848,239060.8,317.656,1.0,Strongly Growing
+  Tarýmsal Biyoteknoloji,0.1565,-0.025,0.5944,0.8683,297829.125,294.8583,8.5,Strongly Growing
+  Biyosistem Mühendisliði,0.0466,0.0154,0.5944,0.8683,311249.21,282.605,13.1667,Strongly Growing
+  Kamu Yönetimi (Uzaktan Öðretim),-0.1136,0.0472,0.5625,0.85,180679.1,339.522,1.4,Strongly Growing
+  Ýktisat (Açýköðretim),2.0738,-0.0351,0.5625,0.85,44112.0,399.938,2.0,Strongly Growing
+  Zootekni,0.108,0.0019,0.5531,0.8683,302483.5367,288.4667,19.0,Strongly Growing
+  Yiyecek ve Ýçecek Ýþletmeciliði,0.2149,-0.0,0.5531,0.8683,269805.8333,310.9467,1.8333,Strongly Growing
+  Havacýlýk Yönetimi (Açýköðretim),0.6174,-0.0065,0.5156,0.8717,61655.3467,389.6967,3.3333,Strongly Growing
+Ekonomi ve Finans(Burslu),0.1592,0.0094,0.5136,0.8683,295904.6133,305.305,5.5,Strongly Growing
+Havacýlýk Yönetimi (Fakülte) (Ýngilizce) (%50 Ýndirimli),0.1355,0.0015,0.511,0.7933,455881.815,277.78,16.6667,Strongly Growing
+  Nanobilim ve Nanoteknoloji,0.2606,-0.0217,0.5096,0.8617,282486.0,290.69,1.0,Strongly Growing
+  Sosyoloji (ÝÖ),-0.0833,-0.0038,0.5055,0.652,309894.606,294.39,11.0,Strongly Growing
+  Polimer Malzeme Mühendisliði,-0.0721,0.0327,0.5049,0.73,149451.8,353.5,1.6,Strongly Growing
+  Elektronik Ticaret ve Yönetimi (%50 Ýndirimli),0.4803,0.0192,0.5041,0.8025,351389.3925,309.675,4.5,Strongly Growing
+  Elektronik ve Haberleþme Mühendisliði (Ýngilizce) (KKTC Uyruklu),-0.1566,0.1431,0.5031,0.6725,182780.25,343.5625,2.0,Strongly Growing
+  Toprak Bilimi ve Bitki Besleme,0.0765,0.009,0.4814,0.8717,329960.9333,277.6,14.1667,Strongly Growing
+  Ýnþaat Mühendisliði (Ýngilizce) (UOLP-Azerbaycan Mimarlýk ve Ýnþaat Üniversitesi) (Ücretli),-0.1665,0.0479,0.4667,0.76,116438.1,379.962,2.2,Strongly Growing
+  Fizik (Ýngilizce) (UOLP-Coe College) (Ücretli) ,0.0997,0.0112,0.4534,0.8325,393200.75,261.165,1.0,Strongly Growing
+"  Ýngilizce, Fransýzca Mütercim ve Tercümanlýk (%50 Ýndirimli)",0.1064,0.0255,0.4514,0.7,32544.876,369.046,4.6,Strongly Growing
+Finans ve Bankacýlýk (Fakülte) (KKTC Uyruklu),-0.0051,0.0243,0.4319,0.842,428003.632,285.422,31.0,Strongly Growing
+Aktüerya Bilimleri (Fakülte) (Ýngilizce) (Burslu),0.0075,0.0301,0.4083,0.86,366384.2,270.564,1.0,Strongly Growing
+Rekreasyon (ÝÖ),0.0627,0.0126,0.4058,0.856,321151.876,300.41,6.4,Strongly Growing
+  Ýnþaat Mühendisliði (Almanca),0.0866,0.0227,0.3954,0.664,157957.736,343.65,25.2,Strongly Growing
+  Çerkez Dili ve Kültürü,2.1678,-0.0094,0.3911,0.81,95215.166,351.088,2.2,Strongly Growing
+  Ýbrani Dili ve Kültürü,2.0454,-0.053,0.3908,0.8,28032.8,388.898,1.0,Strongly Growing
+  Ýþletme (Ýngilizce) (UOLP-SUNY Empire State College) (Ücretli) ,0.1384,0.0275,0.3789,0.802,161755.634,360.762,3.4,Strongly Growing
+  Ýngiliz Dili ve Edebiyatý (Burslu),0.0518,0.0271,0.375,0.88,32605.76,371.756,1.8,Strongly Growing
+  Endüstri Mühendisliði (%50 Ýndirimli),0.0861,0.0164,0.3593,0.6433,156886.4633,348.7117,7.0,Strongly Growing
+Malzeme Bilimi ve Nanoteknoloji Mühendisliði (Ýngilizce),0.1008,0.0194,0.3552,0.524,115336.35,377.648,1.6,Strongly Growing
+  Tekstil ve Moda Tasarýmý (Ýngilizce) (%50 Ýndirimli),0.0767,0.0125,0.3483,0.754,303796.174,299.156,9.6,Strongly Growing
+Ekonometri (ÝÖ),0.0087,0.0291,0.3429,0.8733,349080.6183,296.9083,23.6667,Strongly Growing
+  Tekstil ve Moda Tasarýmý (KKTC Uyruklu),0.4712,-0.0508,0.3333,0.875,1035183.75,224.7025,1.75,Strongly Growing
+Sosyal Hizmet (Yüksekokul) (%50 Ýndirimli),0.1536,0.0122,0.3296,0.705,505295.2933,273.4633,6.6667,Strongly Growing
+  Ýletiþim Sanatlarý (%50 Ýndirimli),1.4794,-0.0418,0.3156,0.766,373555.3,288.7,1.4,Strongly Growing
+  Ýktisat (ÝÖ),-0.0123,0.0413,0.3153,0.864,363936.818,290.442,14.0,Strongly Growing
+  Pazarlama,0.0015,0.0706,0.3078,0.875,370925.625,299.5625,2.0,Strongly Growing
+Muhasebe ve Finans Yönetimi (Yüksekokul),0.0716,0.0125,0.3062,0.8617,372307.78,288.3033,13.0,Strongly Growing
+  Bitkisel Üretim ve Teknolojileri (Ýngilizce),0.0838,0.0412,0.3032,0.8817,173673.6667,342.4983,1.6667,Strongly Growing
+Çocuk Geliþimi (Yüksekokul) (%50 Ýndirimli),0.1229,0.001,0.3019,0.8517,410029.77,284.8633,18.3333,Strongly Growing
+  Arkeoloji (ÝÖ),0.8047,-0.041,0.3,0.85,164435.75,339.67,1.0,Strongly Growing
+  Basýn ve Yayýn (Burslu),0.2449,0.0314,0.2924,0.7,405038.1667,280.0317,1.0,Strongly Growing
+Saðlýk Yönetimi (ÝÖ),-0.0704,0.0698,0.284,0.8825,248998.31,319.135,65.25,Strongly Growing
+  Ýþletme (%25 Ýndirimli),0.115,-0.0086,0.282,0.8433,423421.1417,291.81,19.8333,Strongly Growing
+Bankacýlýk ve Sigortacýlýk (Yüksekokul),-0.019,0.0267,0.2815,0.828,389247.69,292.362,7.6,Strongly Growing
+Fizyoterapi ve Rehabilitasyon (Fakülte) (Ýngilizce) (%25 Ýndirimli),0.095,0.0007,0.2775,0.8667,302414.1617,289.275,40.3333,Strongly Growing
+  Türk Dili ve Edebiyatý Öðretmenliði,0.3581,0.0437,0.2743,0.814,40266.622,346.474,2.6,Strongly Growing
+  Ýnsan Kaynaklarý Yönetimi (Ýngilizce) (Ücretli),0.7444,-0.0191,0.2687,0.7,791093.1675,253.625,3.0,Strongly Growing
+  Biyoteknoloji,0.0182,0.022,0.2681,0.8817,287671.4117,287.575,5.0,Strongly Growing
+  Gerontoloji,-0.01,0.0104,0.2571,0.846,248637.004,306.816,4.4,Strongly Growing
+  Orman Endüstrisi Mühendisliði,0.0152,0.0329,0.2563,0.8883,274571.9133,297.155,8.3333,Strongly Growing
+  Tarla Bitkileri,0.0825,0.0059,0.2562,0.89,261261.4033,301.0633,27.1667,Strongly Growing
+  Felsefe (Açýköðretim),0.0578,-0.0064,0.2529,0.876,72635.12,382.648,4.4,Strongly Growing
+  Ýktisat (Ýngilizce) (UOLP-SUNY Cortland) (Ücretli),0.3106,0.0845,0.25,0.81,356773.5,298.708,1.4,Strongly Growing
+Film Tasarýmý ve Yönetmenliði (KKTC UYRUKLU),1.7907,-0.1259,0.25,0.8333,387722.5,306.8167,1.3333,Strongly Growing
+Arkeoloji(ÝÖ),0.1075,-0.0003,0.2483,0.8817,223529.3067,324.1567,37.0,Strongly Growing
+  Yeni Medya,0.6608,0.0657,0.2476,0.88,110290.6667,336.22,1.0,Strongly Growing
+  Balýkçýlýk Teknolojisi Mühendisliði (Ýngilizce) (Burslu),-0.0976,0.0646,0.2463,0.89,1089508.0,203.2367,1.0,Strongly Growing
+Bahçe Bitkileri (Ýngilizce) (%50 Ýndirimli),0.1394,0.0146,0.2463,0.89,673483.8333,232.19,1.6667,Strongly Growing
+Harita Mühendisliði,0.0445,0.0317,0.2453,0.624,166092.598,338.376,11.0,Strongly Growing
+Kamu Yönetimi (ÝÖ),-0.0012,0.0222,0.2394,0.8883,278444.4367,309.6533,25.1667,Strongly Growing
+  Biyomühendislik (UOLP-Montana State Üniversitesi) (Ýngilizce) (UOLP) (Ücretli),-0.0255,0.038,0.2166,0.5325,77977.25,410.86,1.0,Strongly Growing
+  Film Tasarýmý ve Yönetimi (Ýngilizce) (Ücretli),0.0428,0.0427,0.2128,0.736,368860.532,320.918,3.0,Strongly Growing
+  Felsefe,0.1375,-0.0014,0.2081,0.8883,283332.8117,315.5317,49.0,Strongly Growing
+Ergoterapi (Fakülte) (KKTC Uyruklu),0.6139,-0.1627,0.2048,0.915,135806.75,371.915,1.5,Strongly Growing
+  Sinoloji (Uzaktan Öðretim),-0.3444,0.0414,0.2045,0.91,3305.0,482.554,1.0,Strongly Growing
+  Ýktisat ,0.1031,0.0073,0.2024,0.8783,309055.6283,307.2917,82.3333,Strongly Growing
+  Bahçe Bitkileri,0.0542,0.0084,0.1908,0.8983,248829.665,305.3833,30.8333,Strongly Growing
+Ýþ Saðlýðý ve Güvenliði (Fakülte) (%50 Ýndirimli),0.1352,-0.0032,0.1809,0.86,294880.2467,292.5833,9.1667,Strongly Growing
+  Çalýþma Ekonomisi ve Endüstri Ýliþkileri (Açýköðretim),0.0417,0.0166,0.1789,0.895,350795.8917,297.1667,35.0,Strongly Growing
+Aðaç Ýþleri Endüstri Mühendisliði (KKTC UYRUKLU),0.2563,0.002,0.1782,0.8917,328454.4717,290.0567,3.6667,Strongly Growing
+Turizm Ýþletmeciliði (Yüksekokul) (Ýngilizce) (%50 Ýndirimli),-0.311,0.1113,0.1737,0.918,176876.97,347.684,4.8,Strongly Growing
+  Hemþirelik (Ücretli),0.1364,0.0335,0.1717,0.915,341790.12,281.94,24.5,Strongly Growing
+  Nükleer Enerji Mühendisliði (Ýngilizce) (KKTC Uyruklu),0.0314,0.0409,0.1702,0.68,139601.6,360.14,1.4,Strongly Growing
+  Jeofizik Mühendisliði,0.2253,0.0194,0.1604,0.8983,69256.1817,427.7533,3.0,Strongly Growing
+  Finans ve Bankacýlýk (Ýngilizce) (%50 Ýndirimli),0.356,0.0197,0.1577,0.82,588331.07,273.2375,9.5,Strongly Growing
+  Sosyal Hizmet (%50 Ýndirimli),0.0405,0.0772,0.1542,0.7817,196466.63,336.725,13.5,Strongly Growing
+  Kentsel Tasarým ve Peyzaj Mimarlýðý (%50 Ýndirimli),0.2066,-0.0072,0.1535,0.8833,295380.8617,295.995,3.6667,Strongly Growing
+Finans ve Bankacýlýk (Ýngilizce) (%50 Ýndirimli),0.9234,-0.0952,0.1525,0.5925,377754.4475,295.1575,6.0,Strongly Growing
+  Peyzaj Mimarlýðý,0.0326,0.0179,0.1511,0.905,282714.6183,290.5183,33.6667,Strongly Growing
+Acil Yardým ve Afet Yönetimi (Fakülte) (ÝÖ),0.0537,0.0159,0.1511,0.9033,294394.2967,286.8383,18.8333,Strongly Growing
+  Fizik,0.0189,0.0214,0.1472,0.8967,241255.365,312.995,39.6667,Strongly Growing
+Sosyal ve Siyasal Bilimler (%75 Ýndirimli),0.297,0.02,0.1468,0.926,391828.566,296.772,2.2,Strongly Growing
+  Uluslararasý Ticaret ve Finansman (%50 Ýndirimli),-0.0117,0.0424,0.1464,0.852,533105.476,269.55,4.0,Strongly Growing
+Turizm Ýþletmeciliði (Fakülte) (Ýngilizce),0.181,0.0011,0.1352,0.895,332197.255,300.0783,38.0,Strongly Growing
+Þehir ve Bölge Planlama(Ýngilizce),0.0706,0.0031,0.1345,0.9067,253935.9783,305.3883,27.6667,Strongly Growing
+Acil Yardým ve Afet Yönetimi (Ýngilizce) (Burslu),1.1019,0.0041,0.1344,0.736,203482.8,335.306,2.4,Strongly Growing
+Sosyal Hizmet (Açýköðretim),0.1983,-0.0064,0.1344,0.9083,72680.8333,377.0733,4.0,Strongly Growing
+  Çevre Mühendisliði,0.0878,0.0131,0.1343,0.6267,162908.185,347.8467,12.1667,Strongly Growing
+  Ýstatistik ve Bilgisayar Bilimleri (Ýngilizce) (Ücretli),-0.1549,0.0502,0.1329,0.93,378573.7767,283.45,2.3333,Strongly Growing
+  Basým Teknolojileri,0.0657,0.008,0.1327,0.898,242074.0,305.918,1.0,Strongly Growing
+Ekonometri (KKTC Uyruklu),0.4027,-0.0291,0.125,0.9,622130.2,252.3,1.0,Strongly Growing
+Veterinerlik (Ýngilizce) (KKTC Uyruklu),0.6291,-0.0079,0.125,0.9,366217.75,293.154,2.8,Strongly Growing
+Uçak Gövde ve Motor Bakýmý (Yüksekokul) (%25 Ýndirimli),0.0305,0.022,0.125,0.9,215900.4,320.408,1.0,Strongly Growing
+  Bilgi ve Belge Yönetimi (KKTC Uyruklu),0.2745,-0.0469,0.125,0.9,1019102.2,227.762,1.0,Strongly Growing
+Siyaset Bilimi ve Uluslararasý Ýliþkiler (Açýköðretim),4.0602,-0.014,0.1237,0.844,168079.2,369.184,2.4,Strongly Growing
+  Gümrük Ýþletme,0.0884,0.0103,0.1196,0.91,269175.9167,310.5233,4.8333,Strongly Growing
+  Ýþletme ,0.0358,0.0135,0.1186,0.9,261838.9867,316.6117,91.5,Strongly Growing
+  Hidrojeoloji Mühendisliði,0.1973,0.0087,0.1169,0.7867,122898.41,377.2567,9.6667,Strongly Growing
+  Biyomühendislik,0.0472,0.0197,0.1163,0.7183,143660.8567,362.535,7.3333,Strongly Growing
+  Moleküler Biyoloji ve Genetik (%50 Ýndirimli),0.0765,0.0037,0.1127,0.9133,224045.455,315.6733,7.0,Strongly Growing
+Çaðdaþ Türk Lehçeleri ve Edebiyatlarý (ÝÖ),0.0072,0.0171,0.1112,0.8733,234074.555,319.8683,20.3333,Strongly Growing
+Yönetim Biliþim Sistemleri(Fakülte)(Ýngilizce)(%50 Ýndirimli),0.0191,0.0173,0.1108,0.904,229169.544,321.114,17.6,Strongly Growing
+Ýnsan Kaynaklarý Yönetimi (Fakülte) (%50 Ýndirimli),-0.0103,0.0251,0.1087,0.9067,336432.465,300.5233,10.0,Growing
+  Ýktisat (Ýngilizce) (Açýköðretim),37.8291,-0.0259,0.1087,0.83,254293.9733,358.7283,3.0,Growing
+Yeni Medya ve Gazetecilik(Fakülte)(%75 Ýndirimli),0.078,0.0589,0.1087,0.8767,215920.81,315.4067,3.0,Growing
+  Uçak Bakým ve Onarým (%50 Ýndirimli),-0.1565,0.1188,0.1053,0.94,219521.25,318.555,2.0,Growing
+  Uçak Gövde ve Motor Bakýmý (Ýngilizce) (%50 Ýndirimli),-0.1309,0.145,0.1053,0.94,132828.875,370.7475,1.25,Growing
+  Optik ve Akustik Mühendisliði (Ýngilizce),0.391,-0.0048,0.102,0.2125,183773.5,336.9375,1.0,Growing
+  Ýþletme (ÝÖ),0.0086,0.0285,0.1017,0.904,268502.816,311.41,12.6,Growing
+Pilotaj (Fakülte) (Ýngilizce) (Ücretli),1.6113,-0.0198,0.0988,0.875,154521.6567,397.4767,7.8333,Growing
+Tekstil ve Moda Tasarýmý (Burslu),0.0592,0.0212,0.0961,0.905,316845.0,301.77,7.6667,Growing
+  Spor Yöneticiliði (ÝÖ),0.0505,0.0061,0.0955,0.902,258940.116,313.826,20.0,Growing
+Gayrimenkul Geliþtirme ve Yönetimi (Yüksekokul) (Ýngilizce) (%50 Ýndirimli),0.352,-0.0138,0.0942,0.8833,183097.5,323.5167,1.3333,Growing
+  Biliþim Sistemleri Mühendisliði (Ýngilizce) (UOLP-SUNY Binghamton) (Ücretli),0.3231,0.0171,0.0926,0.7817,56559.195,443.245,2.1667,Growing
+  Antropoloji,0.2262,-0.0042,0.0888,0.8733,244914.035,321.575,7.8333,Growing
+  Ýslami Ýlimler (Arapça) (M.T.O.K.) ,0.2383,0.0353,0.0885,0.9175,338217.3225,296.3125,41.75,Growing
+  Makine Mühendisliði (Ücretli),-0.1565,0.0466,0.0884,0.89,142521.7,376.02,2.8,Growing
+Turizm Rehberliði (Fakülte) (%50 Ýndirimli),-0.0246,0.0591,0.0882,0.772,37852.8,341.59,2.0,Growing
+  Psikoloji (%50 Ýndirimli),0.2575,-0.011,0.0878,0.8567,307113.08,305.2833,46.3333,Growing
+  Siyaset Bilimi ve Kamu Yönetimi (Ýngilizce) (%50 Ýndirimli),0.2968,-0.0073,0.0848,0.8467,233509.8533,326.0133,9.3333,Growing
+  Bilgisayar Mühendisliði (Ýngilizce) (KKTC Uyruklu),0.0293,0.0515,0.084,0.8533,229605.9317,321.0583,7.1667,Growing
+  Havacýlýk Yönetimi (Ýngilizce) (Ücretli),2.2,-0.0529,0.0808,0.88,288615.546,341.518,16.4,Growing
+  Çocuk Geliþimi (Açýköðretim),1.449,-0.0291,0.0784,0.9233,72540.4167,388.525,2.1667,Growing
+  Türk Halkbilimi,-0.0092,0.0306,0.0782,0.9167,152704.8667,343.4617,5.0,Growing
+  Grafik Tasarýmý (Ýngilizce) (%50 Ýndirimli),0.166,0.0057,0.0781,0.9117,318508.0433,313.085,7.5,Growing
+  Turizm Rehberliði (Ýngilizce) (Burslu),0.5169,0.0844,0.0778,0.9125,32015.375,380.65,1.75,Growing
+  Maliye,0.043,0.011,0.0775,0.9117,266984.0067,312.175,55.0,Growing
+  Denizcilik Ýþletmeleri Yönetimi (Ýngilizce) (%50 Ýndirimli),0.1629,0.0076,0.0773,0.91,295116.4383,317.235,5.6667,Growing
+  Maliye (ÝÖ),0.0615,-0.0254,0.0741,0.7233,476716.3467,266.7617,15.3333,Growing
+Ýç Mimarlýk (%25 Ýndirimli),0.0996,0.0024,0.0724,0.71,230642.64,321.1967,35.3333,Growing
+Sanat Tarihi (ÝÖ),0.0026,0.011,0.0704,0.9167,95428.9233,363.6817,48.1667,Growing
+  Seyahat Ýþletmeciliði ve Turizm Rehberliði ,0.2932,-0.0127,0.0692,0.9233,262060.4167,310.37,1.8333,Growing
+  Tarým Makineleri ve Teknolojileri Mühendisliði (Ýngilizce) (Burslu),0.0891,0.0082,0.0692,0.9233,281099.82,294.2667,10.8333,Growing
+Siyaset Bilimi ve Kamu Yönetimi (KKTC Uyruklu),0.0632,0.0071,0.0676,0.9067,230358.39,324.365,114.5,Growing
+  Ekonomi (Ýngilizce) (UOLP-Batý Kanada Huron Üniversitesi) (Ücretli),-0.1694,0.0603,0.0667,0.92,384197.0,286.844,1.0,Growing
+  Fransýzca Öðretmenliði (Fransýzca),-0.0002,0.0222,0.0667,0.92,14206.9,424.762,2.0,Growing
+  Ýnþaat Mühendisliði (Ýngilizce) (UOLP-SUNY Buffalo) (Ücretli),0.0607,0.0151,0.0652,0.7675,139527.75,365.7525,2.25,Growing
+Sosyal Hizmet (ÝÖ),-0.0168,0.0579,0.0635,0.96,229791.5575,320.6775,57.75,Growing
+  Endüstriyel Tasarým (Ýngilizce) (%50 Ýndirimli),0.0279,0.0213,0.0623,0.922,186237.294,337.366,18.2,Growing
+Rekreasyon Yönetimi (Fakülte) (M.T.O.K.),0.0115,0.0211,0.0623,0.922,193320.7,321.262,17.2,Growing
+  Uluslararasý Ýþletme Yönetimi (Ýngilizce) (Burslu),0.672,-0.0373,0.0621,0.7883,527421.5667,278.6833,4.3333,Growing
+  Felsefe Grubu Öðretmenliði,0.0674,0.0182,0.0614,0.725,154868.195,337.215,2.1667,Growing
+Uluslararasý Ýliþkiler(Ýngilizce),0.1259,0.0029,0.0612,0.92,263888.525,318.0167,60.5,Growing
+  Ýþletme (Ücretli),0.5291,-0.0315,0.0609,0.92,547314.9833,272.645,5.6667,Growing
+  Protohistorya ve Ön Asya Arkeolojisi,0.0965,0.022,0.0608,0.93,196758.6117,327.3217,3.0,Growing
+Uluslararasý Ticaret ve Lojistik (Fakülte) (Ýngilizce) (Burslu),0.0198,0.0172,0.0605,0.9067,296252.7467,306.26,54.1667,Growing
+  Ýlahiyat (Burslu),0.0393,0.0373,0.0587,0.865,141204.7633,391.085,4.5,Growing
+  Tarým Ticareti ve Ýþletmeciliði (Ýngilizce) (%50 Ýndirimli),1.7194,-0.0269,0.0585,0.8517,194175.9167,352.6517,1.8333,Growing
+  Teknoloji ve Bilgi Yönetimi (%50 Ýndirimli),0.3867,-0.0245,0.0573,0.8717,346612.555,307.0733,2.3333,Growing
+  Tarih (Açýköðretim),1.1318,-0.0093,0.057,0.8683,7836.5833,430.5117,2.8333,Growing
+  Gemi Ýnþaatý ve Gemi Makineleri Mühendisliði (Ýngilizce) (%50 Ýndirimli),-0.0066,0.0311,0.0567,0.8683,85566.4167,402.6767,1.6667,Growing
+  Tarih (ÝÖ),-0.1966,0.0214,0.0554,0.735,137983.475,339.525,41.1667,Growing
+Sosyoloji(ÝÖ),0.0577,0.0105,0.0552,0.9233,242412.8567,320.575,84.5,Growing
+  Ýslam Ýktisadý ve Finans (Ýngilizce) (%50 Ýndirimli),39.9349,0.1375,0.0545,0.874,248825.366,348.77,2.4,Growing
+  Halkla Ýliþkiler ve Reklamcýlýk (Ýngilizce) (%50 Ýndirimli),0.019,0.0224,0.0543,0.8433,225539.8833,325.675,18.0,Growing
+  Makine Mühendisliði (M.T.O.K.) (ÝÖ),-0.0125,0.0456,0.0542,0.9175,227474.25,310.7225,1.0,Growing
+Deniz Ulaþtýrma Ýþletme Mühendisliði (Yüksekokul) (Ýngilizce) (Burslu),0.042,0.0177,0.0541,0.87,135394.9733,364.4767,7.5,Growing
+  Doðu Dilleri (Çin Dili ve Edebiyatý)  ,0.5226,-0.0319,0.0533,0.9333,41899.4167,343.845,1.8333,Growing
+  Reklam Tasarýmý ve Ýletiþimi (Ýngilizce) (%50 Ýndirimli),0.4638,0.0228,0.0533,0.9333,62169.6667,377.7767,1.8333,Growing
+  Uluslararasý Ticaret ve Ýþletmecilik (%50 Ýndirimli),0.1016,0.0133,0.053,0.925,359970.2583,294.7267,18.0,Growing
+Halkla Ýliþkiler ve Pazarlama Ýletiþimi (%50 Ýndirimli),0.273,-0.0053,0.052,0.8533,317907.6833,302.7033,6.5,Growing
+Sanat ve Kültür Yönetimi (Ücretli),-0.3067,0.0554,0.0512,0.966,32183.9,397.022,1.8,Growing
+Tarih(%50 Ýndirimli),-0.1673,0.0214,0.0502,0.8817,31109.3083,470.0483,12.3333,Growing
+  Lojistik Yönetimi (Ýngilizce) (Ücretli),0.1676,0.0422,0.0497,0.8925,286564.0575,327.7225,21.75,Growing
+  Rus Dili ve Edebiyatý (Rusça) (%50 Ýndirimli),0.1054,0.013,0.0478,0.775,216716.98,323.12,17.3333,Growing
+"Ýngilizce, Fransýzca Mütercim ve Tercümanlýk (%50 Ýndirimli)",-0.048,0.1066,0.0478,0.8575,17872.3075,414.85,15.75,Growing
+Uluslararasý Ticaret ve Lojistik Yönetimi(Fakülte)(Ýngilizce)(%50 Ýndirimli),0.0073,0.0178,0.0472,0.895,269782.535,314.01,21.8333,Growing
+Fransýzca Mütercim ve Tercümanlýk (KKTC Uyruklu),0.6878,0.0175,0.0471,0.93,35310.5,366.056,1.6,Growing
+Gayrimenkul Geliþtirme ve Yönetimi (Fakülte),1.6575,-0.0396,0.0466,0.9367,217915.75,340.915,1.6667,Growing
+Uçak Bakým ve Onarým (Yüksekokul) (%25 Ýndirimli),0.0104,0.0215,0.0464,0.9225,217444.1425,329.41,4.0,Growing
+  Biyoloji,0.0303,0.0183,0.0459,0.9283,246454.8383,308.51,54.1667,Growing
+Genetik ve Biyomühendislik (Ýngilizce),0.2372,0.0099,0.0453,0.8233,136357.25,358.2467,1.5,Growing
+Uluslararasý Ticaret ve Finansman (Ýngilizce),0.0584,0.0183,0.0445,0.9,292778.494,308.304,32.0,Growing
+  Küresel Siyaset ve Uluslararasý Ýliþkiler (Ýngilizce) (UOLP-SUNY Binghamton) (%50 Ýndirimli),0.3383,0.033,0.0444,0.8333,50373.5833,394.3233,1.8333,Growing
+Gýda Mühendisliði(Burslu),0.0542,0.0075,0.0433,0.7133,154168.275,354.1633,111.1667,Growing
+Ýlahiyat (Arapça) (M.T.O.K.),0.2044,0.0553,0.0432,0.955,267632.51,314.7275,95.5,Growing
+  Bilgi ve Belge Yönetimi (Burslu),-0.0142,0.0216,0.0415,0.9367,243314.6233,318.5267,13.1667,Growing
+  Çeviribilimi (Ýngilizce) (Ücretli),0.3106,0.0357,0.0406,0.934,18836.3,413.2,1.2,Growing
+Bankacýlýk ve Sigortacýlýk (Fakülte) (%50 Ýndirimli),0.6765,-0.0438,0.0406,0.868,785400.4,256.772,1.6,Growing
+  Uçak Elektrik ve Elektroniði (Ýngilizce) (%50 Ýndirimli),0.0421,0.0161,0.0406,0.934,135063.8,374.796,2.0,Growing
+Gastronomi ve Mutfak Sanatlarý (Fakülte) (Ýngilizce) (%50 Ýndirimli),0.2354,0.0051,0.0396,0.905,121009.0867,357.135,31.8333,Growing
+Sermaye Piyasasý (Fakülte) (%50 Ýndirimli),-0.0537,0.0145,0.0395,0.7825,291387.5,303.51,1.25,Growing
+  Biyomedikal Mühendisliði (%50 Ýndirimli),-0.0156,0.0285,0.0394,0.7983,137458.31,368.4767,49.8333,Growing
+  Uluslararasý Ticaret ve Ýþletmecilik (Ýngilizce) (%50 Ýndirimli),-0.0099,0.0282,0.0394,0.8733,362678.265,300.595,12.6667,Growing
+Tekstil ve Moda Tasarýmý (Fakülte) (%50 Ýndirimli),-0.0002,0.0344,0.0386,0.84,86356.125,378.505,1.75,Growing
+  Biyokimya,0.0872,0.0127,0.0386,0.9333,211929.5833,322.6983,3.8333,Growing
+  Hukuk (Ücretli),-0.0124,0.0185,0.038,0.8317,66180.295,385.655,22.1667,Growing
+  Turizm ve Otel Ýþletmeciliði (Ýngilizce) (Burslu),19.975,-0.0542,0.0379,0.9083,323245.2733,350.7167,11.3333,Growing
+  Ýktisat (Almanca) ,-0.1661,0.0504,0.0377,0.9417,22173.9167,426.2867,2.0,Growing
+Havacýlýk Yönetimi (KKTC Uyruklu),0.4327,-0.026,0.0377,0.91,547868.9,280.854,1.8,Growing
+  Ýletiþim Bilimleri (%50 Ýndirimli),0.2155,-0.0218,0.0376,0.8733,193463.25,336.7033,2.1667,Growing
+  Dil ve Konuþma Terapisi (Ýngilizce) (%50 Ýndirimli),0.0343,0.0275,0.035,0.9433,169175.8683,348.975,14.0,Growing
+  Þehir ve Bölge Planlama (Ýngilizce) (%50 Ýndirimli),0.0239,0.0197,0.0345,0.9317,194194.9933,341.825,8.8333,Growing
+  Halkla Ýliþkiler ve Tanýtým (Uzaktan Öðretim),0.0211,0.0132,0.0335,0.93,101395.2333,361.6733,4.5,Growing
+Siyaset Bilimi ve Uluslararasý Ýliþkiler (Ýngilizce) (UOLP-New York Eyalet Üniversitesi (Suny Albany)) (Ücretli),0.0357,0.0223,0.0325,0.945,231473.6117,314.9017,2.6667,Growing
+Beslenme ve Diyetetik (Fakülte) (Ýngilizce) (%25 Ýndirimli),0.2147,-0.027,0.0323,0.9283,234462.8717,318.2033,43.8333,Growing
+Havacýlýk Yönetimi (Burslu),-0.0998,0.0726,0.0315,0.9525,200964.175,330.6825,30.0,Growing
+  Denizcilik Ýþletmeleri Yönetimi (Ýngilizce),-0.0597,0.0275,0.0301,0.9467,238759.5767,319.1183,11.0,Growing
+Çocuk Geliþimi (Yüksekokul) (Ýngilizce) (Burslu),0.1982,0.0237,0.0296,0.942,207119.0,332.276,1.2,Growing
+  Türkçe Öðretmenliði (Burslu),0.0965,0.0646,0.0295,0.885,98693.2625,347.14,5.5,Growing
+Arapça Mütercim ve Tercümanlýk (Fakülte) (ÝÖ),-0.0124,0.0257,0.0294,0.934,21161.652,407.778,14.6,Growing
+  Ýslam Ýktisadý ve Finans  (Burslu),0.6914,0.0094,0.0286,0.862,239030.218,333.008,2.8,Growing
+Petrol ve Doðalgaz Mühendisliði (Ýngilizce) (%50 Ýndirimli),0.1442,0.0098,0.0281,0.82,101111.9517,399.595,5.5,Growing
+Biyomedikal Mühendisliði(KKTC Uyruklu),0.4513,-0.0067,0.0278,0.9375,242569.875,332.9925,2.75,Growing
+  Reklam Tasarýmý ve Ýletiþimi (Ýngilizce) (Burslu),72.4428,0.0705,0.0276,0.8933,103102.9167,429.7083,1.6667,Growing
+Sýnýf Öðretmenliði(Ýngilizce)(%75 Ýndirimli),-0.0168,0.0131,0.0275,0.86,106387.9717,351.0017,19.8333,Growing
+Beden Eðitimi ve Spor Öðretmenliði (Yüksekokul),0.0506,0.033,0.0273,0.8667,112192.29,360.88,4.6667,Growing
+Gazetecilik (ÝÖ),0.0037,0.0193,0.0272,0.9467,141242.2467,346.9133,42.1667,Growing
+  Çocuk Geliþimi (Burslu),0.1983,0.0432,0.0268,0.93,281889.3875,317.39,23.25,Growing
+  Gazetecilik (%50 Ýndirimli),0.1307,0.01,0.0266,0.8833,233744.565,324.9733,20.0,Growing
+  Yeni Medya ve Ýletiþim (Ýngilizce) (%50 Ýndirimli),0.0161,0.0343,0.0264,0.8583,201344.375,329.42,17.6667,Growing
+Deniz Ulaþtýrma Ýþletme Mühendisliði (Fakülte) (Ýngilizce) (UOLP- SUNY Maritime) (%50 Ýndirimli),0.0786,0.0097,0.0254,0.7983,111044.7117,381.4833,3.8333,Growing
+  Ýlahiyat (ÝÖ),0.051,0.0253,0.0253,0.94,73802.2875,361.5675,40.75,Growing
+Uluslararasý Ticaret ve Finansman (Fakülte) (Ýngilizce) (%50 Ýndirimli),0.0129,0.0197,0.0251,0.9,248118.312,327.546,31.4,Growing
+Kuyumculuk ve Mücevher Tasarýmý (Yüksekokul),0.0313,0.0309,0.0237,0.9517,211153.5,324.1167,2.5,Growing
+Çizgi Film ve Animasyon (%50 Ýndirimli),0.0644,0.0743,0.0237,0.838,145340.142,350.41,6.6,Growing
+  Genetik ve Yaþam Bilimleri Programlarý (Ýngilizce) (%50 Ýndirimli),0.103,0.0376,0.0229,0.9425,97654.25,389.41,1.25,Growing
+Bankacýlýk ve Sigortacýlýk (Yüksekokul) (%50 Ýndirimli),0.7337,-0.0638,0.0229,0.9425,555384.7925,279.845,1.75,Growing
+  Uluslararasý Ticaret ve Ýþletmecilik (Ýngilizce) (Ücretli),0.1007,0.0392,0.0228,0.9117,501874.565,277.57,7.5,Growing
+  Psikoloji (Ücretli),0.1018,0.0057,0.0226,0.9483,334810.8933,300.85,35.6667,Growing
+  Kültür Varlýklarýný Koruma ve Onarým (%50 Ýndirimli),0.108,0.0053,0.0223,0.945,244220.985,321.5017,6.6667,Growing
+  Yapay Zeka Mühendisliði (Ýngilizce) (KKTC Uyruklu),0.1217,0.0263,0.0218,0.938,146143.242,366.888,6.4,Growing
+Biliþim Sistemleri ve Teknolojileri (Yüksekokul) (Ýngilizce) (%50 Ýndirimli),0.1503,0.015,0.0216,0.935,213331.0067,341.1217,6.6667,Growing
+  Arap Dili ve Edebiyatý (Arapça) (ÝÖ),0.617,-0.0202,0.0203,0.946,27034.5,375.542,2.8,Growing
+  Malzeme Bilimi ve Mühendisliði (Ýngilizce),-0.0525,0.0338,0.0201,0.9067,92050.355,399.1367,3.8333,Growing
+  Ýstatistik (%50 Ýndirimli),0.0198,0.0531,0.0194,0.9183,225199.5233,389.2233,21.0,Growing
+  Halkla Ýliþkiler ve Tanýtým (Ýngilizce) (Ücretli),5.1949,-0.0188,0.0188,0.8433,368318.7083,314.4083,2.3333,Growing
+Bilgi Güvenliði Teknolojisi (Yüksekokul) (Ýngilizce) (Burslu),0.1405,-0.0051,0.0186,0.9483,212151.2833,342.0733,3.5,Growing
+  Endüstriyel Tasarým Mühendisliði (M.T.O.K.),0.1233,0.0075,0.0184,0.895,130997.805,363.715,3.3333,Growing
+Almanca Öðretmenliði (Almanca),0.0128,0.0231,0.0184,0.95,16195.29,410.172,4.8,Growing
+Animasyon ve Oyun Tasarýmý(Ýngilizce)(%50 Ýndirimli),0.0739,0.0158,0.0183,0.9567,211010.8633,327.07,6.1667,Growing
+  Matematik ve Bilgisayar Bilimleri (Ýngilizce) (Burslu),0.0274,0.0631,0.0178,0.9467,259582.2083,311.205,3.3333,Growing
+  Biyoloji Öðretmenliði ,-0.0114,0.0296,0.0178,0.88,180069.4667,332.23,6.1667,Growing
+  Ýç Mimarlýk (Ücretli),0.8376,-0.0678,0.0176,0.9067,324246.9133,299.3217,6.8333,Growing
+  Ýç Mimarlýk ve Çevre Tasarýmý (Ýngilizce) (%25 Ýndirimli),0.0816,0.0146,0.0173,0.8967,171926.855,365.8967,105.5,Growing
+  Ýngilizce Öðretmenliði (Ücretli),0.0876,0.0108,0.0172,0.954,189774.41,325.136,4.8,Growing
+  Görsel Ýletiþim Tasarýmý (Ýngilizce) (%50 Ýndirimli),-0.0025,0.0265,0.0168,0.885,177499.2333,341.035,28.1667,Growing
+  Antropoloji (KKTC Uyruklu),0.1669,-0.0261,0.0167,0.9583,549408.8883,254.25,2.0,Growing
+Ýç Mimarlýk ve Çevre Tasarýmý (Ýngilizce) (%25 Ýndirimli),0.0424,0.0142,0.0161,0.95,246805.022,312.502,37.0,Growing
+  Tarih Öncesi Arkeolojisi,0.8832,0.0167,0.0152,0.96,197778.5,336.16,2.0,Growing
+  Astronomi ve Uzay Bilimleri,0.1035,0.0109,0.0152,0.9583,145727.5167,356.5783,4.8333,Growing
+  Coðrafya (Uzaktan Öðretim),0.196,0.0192,0.0152,0.96,13176.1667,409.0517,1.8333,Growing
+  Turizm Rehberliði (ÝÖ),0.0037,0.0445,0.0151,0.9675,31388.69,376.1925,39.75,Growing
+  Aktüerya Bilimleri,0.0423,0.0107,0.0147,0.948,215117.184,322.316,4.8,Growing
+  Ýletiþim ve Tasarýmý (Ýngilizce) (%50 Ýndirimli),0.133,-0.0007,0.0147,0.8867,213827.7383,360.8233,112.0,Growing
+  Ýktisadi ve Ýdari Programlar (Ýngilizce) (%50 Ýndirimli),0.1985,0.0316,0.0141,0.9075,197881.375,322.75,1.25,Growing
+Bilgisayar ve Öðretim Teknolojileri Öðretmenliði (Ýngilizce) (Ücretli),0.0663,0.0116,0.0133,0.8983,128242.83,371.8967,12.3333,Growing
+Mütercim-Tercümanlýk(Fakülte)(Türkçe-Rusça),0.1508,0.011,0.0131,0.9383,31272.8333,367.55,1.0,Growing
+Gemi Makineleri Ýþletme Mühendisliði(Fakülte)(Ýngilizce)(UOLP-SUNY Maritime)(%50 Ýndirimli),0.0654,0.0277,0.0129,0.946,111824.066,376.082,2.8,Growing
+Otomotiv Mühendisliði(M.T.O.K.),0.0533,0.0114,0.0125,0.895,139410.02,361.7933,8.1667,Growing
+  Siyaset Bilimi ve Uluslararasý Ýliþkiler (Ýngilizce) (%50 Ýndirimli),0.1264,0.0037,0.0122,0.915,209859.3767,343.1383,92.8333,Growing
+  Tarih,0.0174,0.0139,0.012,0.9617,71478.6033,372.57,97.1667,Growing
+  Biliþim Sistemleri ve Teknolojileri (%50 Ýndirimli),0.0206,0.0274,0.0119,0.955,240517.6533,311.595,9.1667,Growing
+Ýstatistik (Ücretli),0.106,0.0166,0.0118,0.9283,441085.125,284.2,2.8333,Growing
+Ýç Mimarlýk,0.1623,-0.0099,0.0114,0.8583,105781.4733,389.0383,58.5,Growing
+  Metalurji ve Malzeme Mühendisliði (Ýngilizce) (%50 Ýndirimli),0.0404,0.0125,0.0112,0.8783,93558.0833,399.4033,62.8333,Growing
+Metalurji ve Malzeme Mühendisliði (%50 Ýndirimli),0.0137,0.0196,0.0109,0.8583,129487.4617,372.7333,32.8333,Growing
+  Elektrik Mühendisliði (ÝÖ),0.0474,0.0155,0.0107,0.8917,119370.0733,378.0217,27.6667,Growing
+  Sigortacýlýk ve Sosyal Güvenlik (Burslu),0.0532,0.039,0.0105,0.9583,365270.5983,293.8017,2.8333,Growing
+  Moda Tasarýmý,-0.204,0.0753,0.0103,0.9925,133269.25,350.735,3.0,Growing
+  Maliye (Burslu),-0.1257,0.0455,0.01,0.9667,232309.3333,319.885,1.3333,Growing
+Siyaset Bilimi ve Kamu Yönetimi (Ýngilizce) (%50 Ýndirimli),0.5585,-0.0313,0.0099,0.825,314186.5667,328.5017,15.5,Growing
+Makine Mühendisliði(Almanca),0.0654,0.0074,0.0094,0.83,133811.3533,368.0233,92.3333,Growing
+  Ýslami Ýlimler (ÝÖ),0.0554,0.0038,0.0092,0.9633,54858.0983,377.5783,39.6667,Stable
+Matematik(ÝÖ),0.01,0.0212,0.0092,0.96,173068.5717,342.5867,79.8333,Stable
+  Ýktisadi ve Ýdari Bilimler Programlarý (Ýngilizce) (%50 Ýndirimli),0.1454,0.0169,0.009,0.9283,80575.7633,398.3483,2.8333,Stable
+Eczacýlýk (Ücretli),0.0257,0.0101,0.0089,0.9683,65688.2267,418.9383,4.5,Stable
+  Ebelik (%50 Ýndirimli),0.3342,0.0111,0.0087,0.8967,51626.6883,396.8483,50.5,Stable
+Turizm ve Otel Ýþletmeciliði(Fakülte)(Ýngilizce)(%75 Ýndirimli),-0.4486,0.1067,0.0087,0.966,83348.764,402.942,3.8,Stable
+Gemi Makineleri Ýþletme Mühendisliði (Fakülte) (Ýngilizce) (%50 Ýndirimli),-0.0295,0.0267,0.0086,0.88,115596.08,382.6333,6.8333,Stable
+  Bankacýlýk ve Sigortacýlýk (Ýngilizce) (Burslu),0.0639,-0.0217,0.0082,0.96,1055272.3333,235.7333,1.0,Stable
+  Okul Öncesi Öðretmenliði (Ýngilizce) (%50 Ýndirimli),-0.0639,0.0239,0.0082,0.9567,50176.6783,377.3383,21.6667,Stable
+  Yazýlým Mühendisliði (M.T.O.K.) (ÝÖ) ,-0.0148,0.0255,0.0081,0.945,165430.9917,340.6533,9.6667,Stable
+  Özel Eðitim Öðretmenliði (Ýngilizce) (%50 Ýndirimli),0.3029,0.0189,0.008,0.9667,38783.8033,383.8567,21.1667,Stable
+  Ekonometri (Ýngilizce),0.3279,0.019,0.008,0.9667,127263.7217,376.9017,4.0,Stable
+Hukuk (UOLP-Köln Üniversitesi) (%50 Ýndirimli),0.2035,0.023,0.0079,0.97,17036.3333,430.22,2.0,Stable
+Muhasebe ve Finans Yönetimi (Fakülte) (%50 Ýndirimli),0.7375,-0.0912,0.0076,0.965,749720.2825,256.5975,3.5,Stable
+  Elektrik-Elektronik Mühendisliði (Ýngilizce) (%50 Ýndirimli),0.0241,0.0191,0.0074,0.915,97132.8783,403.74,44.8333,Stable
+  Enerji Sistemleri Mühendisliði (Ýngilizce) (%50 Ýndirimli),-0.0049,0.0221,0.0072,0.835,124124.0683,375.3583,21.3333,Stable
+  Bitki Koruma,0.0398,0.0186,0.0072,0.9617,209953.105,324.6417,31.6667,Stable
+Fen Bilgisi Öðretmenliði (Ýngilizce),0.0007,0.0129,0.0071,0.9483,136870.215,357.11,51.3333,Stable
+Elektronik ve Haberleþme Mühendisliði (%50 Ýndirimli),0.0145,0.0221,0.007,0.9717,49923.0767,456.6917,7.8333,Stable
+  Kentsel Tasarým ve Peyzaj Mimarlýðý (Ýngilizce) (%50 Ýndirimli),0.6278,-0.0163,0.0067,0.9617,218053.5433,355.8483,4.5,Stable
+Yönetim Biliþim Sistemleri (Fakülte) (Ýngilizce) (Ücretli),0.2743,-0.0126,0.0066,0.95,160940.464,364.042,37.8,Stable
+  Kimya Öðretmenliði ,0.1057,0.0306,0.0063,0.9633,137376.2283,358.4833,5.3333,Stable
+  Fotoðraf,0.7822,0.0271,0.0061,0.9733,49160.5,376.65,1.8333,Stable
+Havacýlýk Elektrik ve Elektroniði(Fakülte)(KKTC Uyruklu),0.1385,0.0064,0.0059,0.965,145911.0433,364.8633,9.5,Stable
+  Mimarlýk (Ýngilizce) (%50 Ýndirimli),0.0356,0.0427,0.0054,0.935,187905.835,362.12,41.3333,Stable
+  Moleküler Biyoloji ve Genetik (Ýngilizce),0.0328,0.015,0.0051,0.9583,168162.335,357.6183,50.6667,Stable
+  Kimya,-0.0387,0.0415,0.0049,0.9617,233480.0367,314.14,53.0,Stable
+Týp (Ücretli),0.039,0.0064,0.0048,0.925,25049.57,471.2117,14.6667,Stable
+Egzersiz ve Spor Bilimleri (Burslu),-0.0518,0.0233,0.0045,0.9725,240110.7075,317.485,2.5,Stable
+Arap Dili ve Edebiyatý (Uzaktan Öðretim),8.1405,0.028,0.004,0.9583,84324.9033,403.5033,8.6667,Stable
+Havacýlýk Yönetimi(Fakülte)(KKTC Uyruklu),1.3302,-0.1283,0.0035,0.9733,458726.7767,297.2133,6.0,Stable
+  Fransýzca Öðretmenliði (KKTC Uyruklu),1.067,0.0302,0.0034,0.978,93246.866,332.9,2.4,Stable
+  Reklamcýlýk (%50 Ýndirimli),0.0686,0.0128,0.0033,0.98,58829.355,425.2467,6.1667,Stable
+  Biliþim Sistemleri ve Teknolojileri (Ýngilizce) (Burslu),0.2368,-0.0055,0.0031,0.9117,120258.8067,392.5833,7.5,Stable
+Fizik(Ýngilizce)(Burslu),0.0608,0.0068,0.0029,0.9767,80502.0417,434.4483,7.3333,Stable
+Türk Dili ve Edebiyatý(Ýngilizce),0.0087,0.0092,0.0028,0.9483,81837.0283,370.6333,221.1667,Stable
+  Gazetecilik (Uzaktan Öðretim),1.948,-0.0121,0.0027,0.9817,41671.93,400.5683,3.1667,Stable
+  Biyomühendislik (Ýngilizce) (KKTC Uyruklu),0.1501,0.0345,0.0026,0.9767,247251.135,345.45,8.1667,Stable
+Hemþirelik (Fakülte) (Ýngilizce) (%50 Ýndirimli),-0.0125,0.0341,0.0025,0.9717,236141.6233,307.9283,47.5,Stable
+  Hititoloji,-0.0556,0.0725,0.0023,0.98,23824.25,388.3417,1.8333,Stable
+  Geleneksel Türk Sanatlarý (M.T.O.K.),0.3517,0.0448,0.0023,0.98,58177.375,377.775,1.75,Stable
+  Ýstatistik (KKTC Uyruklu),0.7347,-0.1257,0.0023,0.98,279747.285,389.9975,8.5,Stable
+Diþ Hekimliði (%50 Ýndirimli),0.0689,0.0029,0.0022,0.9567,39463.1833,450.6517,20.5,Stable
+  Malzeme Bilimi ve Teknolojileri (Almanca),-0.0349,0.0372,0.0022,0.9817,63894.1667,424.8833,3.3333,Stable
+Gemi Ýnþaatý ve Gemi Makineleri Mühendisliði (Ýngilizce) (Ücretli),0.0748,0.0076,0.0019,0.975,68969.16,422.795,8.6667,Stable
+  Mekatronik Mühendisliði (M.T.O.K.) (ÝÖ) ,-0.0265,0.0288,0.0019,0.98,167148.3717,340.3767,10.1667,Stable
+  Sosyal Hizmet (Uzaktan Öðretim),0.4117,-0.0028,0.0017,0.984,80727.466,366.934,1.6,Stable
+  Sosyoloji (Ýngilizce) (%50 Ýndirimli) ,0.1032,-0.0017,0.0017,0.9733,178189.7783,338.7017,53.6667,Stable
+  Uluslararasý Ýliþkiler (Ýngilizce) (Açýköðretim),0.218,0.0017,0.0017,0.9133,231376.72,347.28,61.1667,Stable
+  Bulgar Dili ve Edebiyatý (Bulgarca),0.6238,0.0158,0.0011,0.9833,35010.5,353.6883,1.0,Stable
+  Fizik Öðretmenliði ,0.0253,0.0226,0.0008,0.99,108187.4717,381.7983,4.5,Stable
+Coðrafya(ÝÖ),0.0423,0.0132,0.0008,0.9883,84002.5167,357.0067,48.8333,Stable
+Ýngilizce Mütercim ve Tercümanlýk (%25 Ýndirimli),0.1771,-0.0017,0.0007,0.974,16611.88,422.208,85.6,Stable
+  Siyaset Bilimi ve Uluslararasý Ýliþkiler (Fransýzca) (%50 Ýndirimli),0.332,0.0257,0.0007,0.99,120966.0,356.946,1.2,Stable
+  Mühendislik ve Doða Bilimleri Programlarý (Ýngilizce) (%50 Ýndirimli),-0.118,0.034,0.0007,0.9867,45360.205,464.63,5.6667,Stable
+Uluslararasý Giriþimcilik (%50 Ýndirimli),-0.2017,0.0803,0.0007,0.99,183392.6,334.204,1.2,Stable
+Tekstil Mühendisliði(M.T.O.K.),0.0643,0.0165,0.0006,0.8867,110914.8967,388.245,46.6667,Stable
+  El Sanatlarý,0.0842,0.0251,0.0005,0.9917,56729.0833,368.8283,1.8333,Stable
+  Rehberlik ve Psikolojik Danýþmanlýk (Ýngilizce) (%50 Ýndirimli),-0.1107,0.0253,0.0005,0.8917,66712.5483,386.4283,12.1667,Stable
+  Ortez ve Protez (Ankara),0.5429,-0.0741,0.0004,0.992,204038.0,333.332,1.0,Stable
+Endüstriyel Tasarým (Fakülte) (Ýngilizce) (%50 Ýndirimli),0.0828,0.0401,0.0004,0.99,51687.1267,448.1567,9.6667,Stable
+  Sinema ve Televizyon (Ýngilizce) (%50 Ýndirimli),1.6369,0.0016,0.0003,0.9933,78178.56,404.1033,4.5,Stable
+  Odyoloji (Ankara),0.1648,0.0053,0.0003,0.9925,185837.75,330.125,1.0,Stable
+Hemþirelik(Fakülte)(Ýngilizce)(%50 Ýndirimli),-0.1723,0.0821,0.0003,0.992,130291.772,368.414,13.8,Stable
+  Tarým Ekonomisi,0.0005,0.0166,0.0003,0.9933,223332.6483,318.6783,21.8333,Stable
+Ýngilizce Öðretmenliði (Ýngilizce) (%50 Ýndirimli),0.0197,0.0184,0.0002,0.9917,20953.6683,407.6717,72.0,Stable
+  Hungaroloji,0.4155,0.0172,0.0002,0.995,22865.8333,388.5417,1.0,Stable
+  Çaðdaþ Yunan Dili ve Edebiyatý,0.0358,0.0118,0.0002,0.98,14781.2917,424.09,5.5,Stable
+Reklamcýlýk (ÝÖ),-0.0019,0.0282,0.0002,0.9933,76259.8417,368.92,4.6667,Stable
+  Deniz Ulaþtýrma Ýþletme Mühendisliði (KKTC Uyruklu),-0.0742,0.0358,0.0002,0.995,102551.2367,388.355,8.0,Stable
+Lojistik Yönetimi (Fakülte) (Ýngilizce),1.9522,-0.1407,0.0002,0.9933,311989.15,317.22,22.3333,Stable
+  Grafik Tasarýmý,0.0289,0.0152,0.0002,0.995,197861.25,323.7483,2.0,Stable
+  Ortez ve Protez,0.1249,-0.028,0.0002,0.994,202367.9,325.106,2.0,Stable
+  Matematik (Fransýzca),-0.0417,0.0115,0.0002,0.995,12831.5,491.3917,1.0,Stable
+Ýlahiyat(ÝÖ),0.0607,0.0115,0.0001,0.9967,29724.5967,402.41,68.8333,Stable
+  Alman Dili ve Edebiyatý (Almanca) (ÝÖ),-0.0262,0.0198,0.0001,0.9967,14310.97,426.955,8.8333,Stable
+Ýstatistik (Ýngilizce),-0.3973,0.0488,0.0001,0.996,19551.8,479.234,1.0,Stable
+  Adli Bilimler,0.1157,0.0264,0.0001,0.995,88081.5,396.705,1.0,Stable
+  Coðrafya (Ýngilizce),0.0352,0.0314,0.0001,0.996,8206.4,417.472,1.0,Stable
+  Leh Dili ve Edebiyatý (Lehçe),0.0198,0.0116,0.0001,0.996,15699.0,423.708,1.8,Stable
+  Maliye (Ýngilizce),0.0809,0.0103,0.0001,0.9967,139446.5,342.0367,1.3333,Stable
+  Bitkisel Üretim ve Teknolojileri (Ýngilizce) (%50 Ýndirimli),-0.2827,0.1241,0.0001,0.9967,480179.7767,271.6833,2.3333,Stable
+Veterinerlik (Ýngilizce) (Burslu),-0.0644,0.0265,0.0001,0.9967,61521.0,431.2683,2.1667,Stable
+  Moleküler Biyoteknoloji (Almanca),-0.0988,0.0261,0.0001,0.9967,39381.25,451.8783,2.0,Stable
+  Fotonik,0.0919,0.0596,0.0001,0.995,122635.25,369.115,1.0,Stable
+  Psikoloji (Ýngilizce),0.1148,-0.0073,0.0001,0.995,55444.055,423.5133,15.6667,Stable
+  Ýþletme (Almanca)  ,-0.1647,0.0273,0.0001,0.9967,15222.0,430.0,3.0,Stable
+Uzay Bilimleri ve Teknolojileri (KKTC UYRUKLU),0.3289,-0.0155,0.0001,0.9967,199836.1117,328.2667,2.1667,Stable
+  Politika ve Ekonomi (Ýngilizce),-0.1036,0.0208,0.0001,0.9967,12858.3333,425.1583,1.0,Stable
+  Saðlýk Yönetimi (Ankara),7.9634,0.0625,0.0001,0.995,176391.25,344.555,1.0,Stable
+  Ýngiliz Dilbilimi (Ýngilizce),0.2655,0.0202,0.0001,0.9967,5165.1117,475.975,2.8333,Stable
+  Sigortacýlýk ve Aktüerya Bilimleri,-0.0601,0.0777,0.0001,0.995,369687.5,299.5325,1.0,Stable
+Uçak Gövde ve Motor Bakýmý (Yüksekokul),0.0324,0.0046,0.0001,0.996,76193.186,415.904,4.8,Stable
+  Hemþirelik (Ankara),0.0655,0.0525,0.0001,0.995,94401.625,392.6625,1.75,Stable
+  Adli Biliþim Mühendisliði (ÝÖ),-0.0608,0.0335,0.0,0.9983,151158.5,351.3433,1.8333,Declining
+Ýlahiyat (Ýngilizce),0.1169,0.032,0.0,1.0,2378.75,454.455,3.0,Declining
+Ýþ Saðlýðý ve Güvenliði (Yüksekokul) (ÝÖ),0.7672,-0.1109,0.0,1.0,374340.75,254.75,1.5,Declining
+  Aile ve Tüketici Bilimleri,0.2922,0.0389,0.0,1.0,174258.0,332.62,1.0,Declining
+Kontrol ve Otomasyon Mühendisliði(KKTC Uyruklu),-0.2262,0.0232,0.0,1.0,14159.3083,492.9367,3.5,Declining
+Kurgu-Ses ve Görüntü Yönetimi(KKTC Uyruklu),0.1599,0.0386,0.0,1.0,70332.3,360.148,1.2,Declining
+Hemþirelik (Yüksekokul) (Ýngilizce) (%50 Ýndirimli),0.1636,0.0329,0.0,1.0,269753.85,285.035,15.5,Declining
+"  Kurgu, Ses ve Görüntü Yönetimi (KKTC Uyruklu)",1.5135,-0.0933,0.0,1.0,444043.75,283.795,1.0,Declining
+  Kore Dili ve Edebiyatý (Korece),0.181,0.0297,0.0,1.0,3162.5,482.015,1.0,Declining
+  Klasik Arkeoloji,0.0896,0.025,0.0,1.0,94455.1117,366.005,3.0,Declining
+  Kimya-Biyoloji Mühendisliði (Ýngilizce) (Ücretli),-0.9005,0.1868,0.0,1.0,28762.0,485.87,2.0,Declining
+  Kimya Öðretmenliði (Ýngilizce) (KKTC Uyruklu),0.1672,-0.028,0.0,1.0,114963.625,389.185,1.25,Declining
+  Havacýlýk Yönetimi (Ücretli),0.1092,0.0007,0.0,1.0,841055.3333,255.8667,1.6667,Declining
+  Halkla Ýliþkiler ve Tanýtým (Ýngilizce) (Burslu),1.3821,-0.0271,0.0,1.0,2138.065,466.315,4.0,Declining
+Hemþirelik (ÝÖ),-0.0023,0.043,0.0,0.9975,90277.1175,398.4175,110.0,Declining
+Çocuk Geliþimi (Ankara),-0.026,0.0749,0.0,1.0,149049.6667,332.3567,1.0,Declining
+  Bilgisayar Bilimleri,0.0527,0.0129,0.0,0.9983,57303.0,429.66,2.3333,Declining
+  Beslenme ve Diyetetik (Ücretli),0.1022,0.0206,0.0,0.9975,155080.185,354.6075,72.75,Declining
+  Batý Dilleri (Ýngiliz Dili ve Edebiyatý) ,0.2067,-0.0083,0.0,1.0,49803.1667,317.2333,1.0,Declining
+  Görsel Ýletiþim Tasarýmý (Açýköðretim),0.8361,0.0128,0.0,1.0,11936.0,411.1625,1.0,Declining
+  Görsel Sanatlar ve Ýletiþim Tasarýmý (Burslu),0.3046,0.0259,0.0,1.0,113012.8,342.346,1.0,Declining
+  Görsel Sanatlar (Ücretli),-0.2204,0.1974,0.0,0.2,1276884.0,204.425,1.0,Declining
+  Görsel Sanatlar (M.T.O.K.),0.1807,-0.0064,0.0,1.0,313732.5,295.265,1.8333,Declining
+  Grafik Tasarýmý (M.T.O.K.),0.1068,0.0197,0.0,1.0,329078.5833,294.3167,1.3333,Declining
+  Ýktisat (Fransýzca),-0.158,0.0134,0.0,1.0,701.0,495.3633,1.0,Declining
+  Ýngilizce Öðretmenliði (Ýngilizce) (UOLP-SUNY New Paltz) (Ücretli),-0.0454,0.0296,0.0,1.0,13679.75,422.155,2.0,Declining
+  Ýngilizce Öðretmenliði (Ýngilizce) (UOLP-SUNY New Paltz) (%50 Ýndirimli),0.5712,-0.0168,0.0,1.0,23476.4283,397.725,5.1667,Declining
+Uluslararasý Ýþletme Yönetimi (Ýngilizce) (UOLP-ABD North Carolina Üniversitesi (UNCW)) (Ücretli),0.0404,0.0182,0.0,1.0,244249.6667,319.81,1.5,Declining
+Uluslararasý Ulaþtýrma Sistemleri (Ýngilizce) (Burslu),-0.3273,0.036,0.0,1.0,107665.3333,342.5933,1.0,Declining
+Uluslararasý Týp,0.2377,0.004,0.0,1.0,5996.0,504.78,1.0,Declining
+Uluslararasý Ticaret(Fakülte)(%75 Ýndirimli),0.3773,0.0002,0.0,1.0,263112.585,315.575,8.5,Declining
+  Sermaye Piyasasý (Burslu),0.6183,-0.0127,0.0,0.998,221865.768,330.676,2.4,Declining
+  Sanat ve Sosyal Bilimler Programlarý (Ýngilizce) (%50 Ýndirimli),0.1758,0.0126,0.0,0.9983,11675.2767,470.7567,3.1667,Declining
+  Sanat Tarihi (Uzaktan Öðretim),0.6511,0.035,0.0,1.0,3156.4,445.572,1.0,Declining
+  Ýspanyol Dili ve Edebiyatý (Ýspanyolca),0.2132,-0.0071,0.0,0.9983,5321.0833,470.0333,3.0,Declining
+  Ýslami Ýlimler (Arapça) (%50 Ýndirimli),0.411,0.0237,0.0,0.9983,60791.7783,370.0033,3.3333,Declining
+Tekstil Tasarýmý (M.T.O.K.),0.1163,0.0221,0.0,1.0,666013.0,253.14,1.0,Declining
+Tarýmsal Yapýlar ve Sulama (KKTC UYRUKLU),0.5257,0.0445,0.0,1.0,593508.0,227.405,1.0,Declining
+Tarih (Ýngilizce),0.0649,-0.0001,0.0,1.0,5705.4617,508.6167,14.6667,Declining
+Veterinerlik  ,0.0183,0.0124,0.0,0.9983,72303.24,414.88,29.1667,Declining
+Uçak Gövde-Motor Bakým(Fakülte)(KKTC Uyruklu),-0.2464,0.1636,0.0,1.0,84386.0,399.75,5.5,Declining
+Uçak Gövde ve Motor Bakýmý (Yüksekokul) (Ýngilizce) (%25 Ýndirimli),-0.1852,0.0917,0.0,1.0,90846.674,399.308,3.2,Declining
+Sosyal ve Siyasal Bilimler(Burslu),-0.0466,0.1398,0.0,1.0,405914.0,283.56,1.0,Declining
+  Þehir ve Bölge Planlama (KKTC Uyruklu),0.12,0.0755,0.0,1.0,627089.75,241.55,1.0,Declining
+  Ýþletme (Ýngilizce) (UOLP-SUNY New Paltz) (%50 Ýndirimli),-0.3438,0.0317,0.0,1.0,10080.8333,439.0783,1.3333,Declining
+  Ýþletme (Ýngilizce) (UOLP-SUNY Binghamton) (%50 Ýndirimli),-0.3515,0.0316,0.0,1.0,7491.8333,446.0733,1.0,Declining
+  Ýþletme (Fransýzca),0.0224,0.0139,0.0,1.0,308.0833,507.7233,2.0,Declining
+  Ýþletme (Açýköðretim),83.7696,-0.1997,0.0,1.0,47516.335,431.455,2.0,Declining
+  Ýç Mimarlýk ve Çevre Tasarýmý (Ýngilizce) (Burslu),3.9685,-0.331,0.0,1.0,618389.095,297.585,24.5,Declining
+  Ýstatistik ve Bilgisayar Bilimleri (Ýngilizce) (%50 Ýndirimli),0.1741,-0.015,0.0,1.0,377871.585,284.055,2.5,Declining
+Uluslararasý Ýþletmecilik ve Ticaret(Fakülte)(Ýngilizce)(%50 Ýndirimli),-0.154,0.0354,0.0,1.0,149849.465,346.815,8.0,Declining
+Sosyal Hizmet (Yüksekokul) (Burslu),0.1644,0.0212,0.0,1.0,243033.335,307.285,9.0,Declining
+Sosyal Hizmet (Ankara),0.0618,0.0653,0.0,1.0,171179.0,325.9,1.0,Declining
+  Ýç Mimarlýk (KKTC Uyruklu),1.4124,-0.0566,0.0,1.0,561807.8667,271.0333,7.6667,Declining
+Basýn ve Yayýn,-0.4842,0.0117,0.0,1.0,30487.3333,372.0267,1.0,Declining
+Arapça Mütercim ve Tercümanlýk (Fakülte) (Burslu),1.875,-0.1046,0.0,1.0,45388.4575,357.6625,3.25,Declining
+Aktüerya Bilimleri (KKTC Uyruklu),0.206,0.057,0.0,1.0,714949.3175,231.91,2.5,Declining
+Sýnýf Öðretmenliði (Burslu),-0.0343,0.0141,0.0,0.9983,56273.4917,385.7583,82.1667,Declining
+Su Ürünleri Mühendisliði (KKTC Uyruklu),0.0753,0.1093,0.0,1.0,646366.0,231.415,1.0,Declining
+  Sümeroloji,1.3808,0.0104,0.0,1.0,24273.8333,392.945,1.0,Declining
+  Su Bilimleri ve Mühendisliði ,0.1645,0.0153,0.0,0.9983,128406.5,362.7433,1.0,Declining
+  Finans ve Bankacýlýk (KKTC Uyruklu),0.4302,-0.0951,0.0,1.0,777920.3333,260.0233,1.0,Declining
+  Film Tasarýmý ve Yönetmenliði,-0.1579,0.0246,0.0,1.0,7042.1667,420.0767,1.0,Declining
+  Ýlahiyat (Arapça),0.3187,0.0169,0.0,1.0,24557.4283,414.1917,6.1667,Declining
+  Ergoterapi (KKTC Uyruklu),0.2416,-0.0409,0.0,1.0,780562.5,230.6367,1.6667,Declining
+  Sosyoloji (Fransýzca),-0.0535,0.0106,0.0,1.0,2689.5,463.4233,1.0,Declining
+  Sosyal Hizmet (KKTC Uyruklu),0.0574,-0.0248,0.0,1.0,1163209.5,227.8367,1.3333,Declining
+  Sosyal Bilgiler Öðretmenliði (Burslu),0.0153,0.0104,0.0,1.0,30492.6783,386.21,64.3333,Declining
+  Siyaset Bilimi (Fransýzca),-0.0459,0.0078,0.0,1.0,1738.6667,474.24,1.0,Declining
+  Siyasal Bilimler (Ücretli),-0.0269,-0.0287,0.0,1.0,533660.1667,277.1167,1.3333,Declining
+Uçak Gövde ve Motor Bakýmý (Fakülte) (KKTC Uyruklu),1.9826,-0.0554,0.0,1.0,281868.0,334.565,1.0,Declining
+"  Radyo, Televizyon ve Sinema (Uzaktan Öðretim)",6.3905,-0.0062,0.0,0.998,28643.2,411.312,2.6,Declining
+  Genetik ve Yaþam Bilimleri Programlarý (Ýngilizce) (Burslu),0.0126,0.0222,0.0,1.0,7544.5883,501.045,3.0,Declining
+  Gemi ve Deniz Teknolojisi Mühendisliði,0.0776,0.0147,0.0,1.0,42026.5,447.4617,1.1667,Declining
+Veterinerlik (Kiraz),0.43,0.1017,0.0,1.0,68933.0,404.1,1.0,Declining
+Veterinerlik (Ereðli),0.0861,-0.0111,0.0,1.0,100727.2,388.742,1.4,Declining
+Biyoloji (UOLP-Gence Devlet Üniversitesi) (Ücretli),-0.0682,-0.0305,0.0,1.0,421983.0,271.64,1.0,Declining
+  Fransýz Dili ve Edebiyatý (Fransýzca),-0.0182,0.0072,0.0,0.9983,8745.0983,460.4167,3.5,Declining
+  Fotoðraf ve Video,-0.0128,0.015,0.0,1.0,26378.1667,392.9833,2.0,Declining
+  Psikoloji (ÝÖ),3.4277,-0.0283,0.0,1.0,56617.75,388.9175,1.0,Declining
+  Pilotaj,-0.2792,0.0294,0.0,1.0,968.25,531.7375,1.0,Declining
+Yeni Medya (Yüksekokul),-0.7818,0.1678,0.0,1.0,144098.5,332.025,1.0,Declining
+Bitki Koruma (KKTC UYRUKLU),0.6158,-0.0749,0.0,1.0,228695.5,334.9467,1.3333,Declining
+Biliþim Sistemleri ve Teknolojileri (Fakülte) (Ýngilizce) (%50 Ýndirimli),0.1708,0.029,0.0,1.0,122383.085,351.405,7.5,Declining
+Beslenme ve Diyetetik (Yüksekokul) (Ýngilizce) (Burslu),0.4838,-0.0422,0.0,1.0,116644.72,372.475,5.0,Declining
+Beslenme ve Diyetetik (Yüksekokul) (Ýngilizce) (%50 Ýndirimli),0.1315,0.0175,0.0,1.0,239267.5,297.585,1.5,Declining
+Eczacýlýk,0.0317,0.0065,0.0,1.0,29406.1167,464.8333,27.8333,Declining
+Ebelik(Yüksekokul)(Burslu),0.0242,0.0942,0.0,1.0,124655.28,364.09,25.0,Declining
+Ebelik (Fakülte) (Burslu),-0.0215,0.1087,0.0,1.0,180566.36,324.21,11.5,Declining
+Diþ Hekimliði(UOLP-Saðlýk Bilimleri Üniversitesi)(T.C. Vatandaþlarý)(Burslu),0.0868,0.0016,0.0,1.0,37555.1383,453.1417,2.5,Declining
+Saðlýk Yönetimi (Fakülte) (Ankara),0.2022,0.0324,0.0,1.0,249715.41,313.645,62.0,Declining
+Siyaset Bilimi ve Kamu Yönetimi (Ýngilizce) (UOLP-Suny Cortland) (Ücretli),0.46,0.005,0.0,1.0,364970.65,294.24,1.6,Declining
+Siyaset Bilimi (Fransýzca) (KKTC Uyruklu),-0.4023,0.1277,0.0,1.0,112840.5,371.675,2.0,Declining
+Siber Güvenlik Mühendisliði (Ýngilizce),-0.9906,0.614,0.0,1.0,109536.0,430.34,1.0,Declining
+Diþ Hekimliði (Burslu) ,0.9168,0.0041,0.0,1.0,28474.835,471.81,8.0,Declining
+Diþ Hekimliði (Ankara) (Erkek) (Milli Savunma Bakanlýðý Adýna),0.0357,0.0094,0.0,1.0,26872.4433,467.7533,3.3333,Declining
+Türkçe Öðretmenliði(Ücretli),0.0507,0.0046,0.0,0.9983,13001.3633,416.555,87.3333,Declining
+  Uçak Bakým ve Onarým (Ücretli),0.1449,0.0106,0.0,1.0,156410.542,349.412,4.0,Declining
+  Tiyatro Eleþtirmenliði ve Dramaturji,0.2786,0.0133,0.0,1.0,30570.5,401.2033,1.8333,Declining
+  Tarým Makineleri ve Teknolojileri Mühendisliði (Ýngilizce) (%50 Ýndirimli),-0.1496,0.0586,0.0,1.0,348721.5,288.12,1.3333,Declining
+  Tarým Ekonomisi (KKTC Uyruklu),0.4702,0.0134,0.0,1.0,686289.4,248.582,1.2,Declining
+  Ýtalyan Dili ve Edebiyatý (Ýtalyanca) (KKTC Uyruklu),0.5302,-0.0873,0.0,1.0,52413.5,336.805,1.0,Declining
+Turizm Rehberliði (Fakülte) (Burslu),-0.7868,0.0858,0.0,1.0,72865.35,352.645,44.0,Declining
+  Ebelik,0.0199,0.0422,0.0,0.9975,153672.055,350.25,46.0,Declining
+  Diþ Hekimliði,0.0664,0.0034,0.0,1.0,22227.8317,475.8783,59.6667,Declining
+  Dilbilimi,0.011,0.0155,0.0,0.9983,12017.9917,434.4767,4.3333,Declining
+  Ýletiþim ve Tasarýmý (Burslu),0.5023,-0.0158,0.0,1.0,43899.5,390.265,7.0,Declining
+  Taký Tasarýmý ve Ýmalatý,0.0063,-0.0149,0.0,1.0,310524.0,313.2967,1.0,Declining
+Diþ Hekimliði (Ankara),0.0447,0.0054,0.0,1.0,23416.5,472.6917,1.0,Declining
+Dil ve Konuþma Terapisi (Yüksekokul) (Ücretli),0.2402,0.0476,0.0,1.0,135067.165,378.815,3.0,Declining
+Dijital Oyun Tasarýmý (KKTC Uyruklu),3.9466,-0.3688,0.0,1.0,248037.335,344.37,3.5,Declining
+Coðrafya (Ýngilizce)KKTC Uyruklu,1.359,0.0687,0.0,1.0,343409.89,294.23,1.6667,Declining
+  Cevher Hazýrlama Mühendisliði,0.1961,0.0394,0.0,1.0,66094.0,419.4333,1.0,Declining
+  Peyzaj Mimarlýðý (Ýngilizce) (Burslu),0.9234,-0.0265,0.0,0.9983,189854.6667,358.4833,1.6667,Declining
+  Ortez ve Protez (Burslu),-0.0122,0.0231,0.0,1.0,195450.1,327.874,1.4,Declining
+  Geleneksel Türk Sanatlarý (%50 Ýndirimli),0.0306,-0.0102,0.0,0.36,769581.0,254.15,1.0,Declining
+Eczacýlýk (Ankara),0.0547,0.004,0.0,1.0,39340.8333,450.1967,1.0,Declining
+Felsefe(Ýngilizce)(Burslu),0.2006,0.0072,0.0,1.0,30649.5133,429.8683,4.5,Declining
+Ergoterapi (Yüksekokul) (Burslu),-0.1808,0.1664,0.0,1.0,169588.5,329.13,1.5,Declining
+Ergoterapi (Fakülte) (Ankara),0.5235,0.0086,0.0,1.0,112501.545,374.285,10.0,Declining
+Enerji Sistemleri Mühendisliði (KKTC Uyruklu),0.0335,0.0182,0.0,1.0,165226.68,334.682,3.6,Declining
+Rekreasyon Yönetimi (Yüksekokul),0.8838,-0.1145,0.0,1.0,200580.915,319.71,5.0,Declining
+Rekreasyon Yönetimi (M.T.O.K.),0.2165,0.0921,0.0,1.0,352063.3333,288.8767,1.3333,Declining
+  Ergoterapi (Ankara),0.0006,0.0486,0.0,0.9975,133187.75,359.7625,1.0,Declining
+  Enerji Yönetimi,0.1186,0.0126,0.0,1.0,143735.4,342.88,1.0,Declining
+Uluslararasý Ticaret ve Finansman (Yüksekokul),0.0546,0.051,0.0,1.0,289811.04,312.87,8.0,Declining
+  Uluslararasý Giriþimcilik (Burslu),-0.2244,0.0304,0.0,1.0,2123.3333,475.8733,1.0,Declining
+  Film Tasarýmý ve Yazarlýðý,0.4945,0.0091,0.0,1.0,11644.3333,407.6517,1.0,Declining
+  Felsefe (KKTC Uyruklu),0.1522,0.0489,0.0,1.0,584308.2,267.056,1.0,Declining
+  Rus ve Ýngiliz Dilleri ve Edebiyatlarý (Öðretmenlik) (Ücretli),0.6964,-0.1375,0.0,0.1,73396.25,255.185,1.5,Declining
+  Rus Dili ve Edebiyatý (Rusça) (Uzaktan Öðretim),-0.1246,0.0296,0.0,1.0,2791.0,486.526,1.2,Declining
+  Özel Eðitim Öðretmenliði (Ücretli),-0.0455,0.0086,0.0,1.0,10851.16,431.5133,58.6667,Declining
+  Çocuk Geliþimi (ÝÖ),-0.0296,0.0541,0.0,1.0,159679.7625,337.7175,25.75,Declining
+  Çin Dili ve Edebiyatý (Çince),-0.1047,0.0339,0.0,1.0,5021.8333,472.1483,1.1667,Declining
+  Çaðdaþ Yunan Dili ve Edebiyatý (KKTC Uyruklu),0.3248,0.0636,0.0,1.0,38779.4317,354.9467,6.8333,Declining
+Endüstriyel Tasarým (Fakülte) (KKTC Uyruklu),0.0204,0.1137,0.0,1.0,196977.235,346.545,9.0,Declining
+Endüstri Ürünleri Tasarýmý(Fakülte)(%50 Ýndirimli),0.079,0.0669,0.0,1.0,159797.135,349.24,14.5,Declining
+Elektrik-Elektronik Mühendisliði (UOLP-Azerbaycan Teknik Üniversitesi) (Ücretli),-0.221,-0.0119,0.0,1.0,83123.5,412.1,1.0,Declining
+  Metalurji ve Malzeme Mühendisliði (Ýngilizce) (Burslu),0.0085,0.0144,0.0,1.0,70422.6667,412.9683,1.0,Declining
+  Mekatronik Mühendisliði (Almanca) (KKTC Uyruklu),-0.2042,0.0688,0.0,1.0,230077.3333,325.5133,1.0,Declining
+  Medya ve Görsel Sanatlar (Ýngilizce) (Ücretli),-0.1135,0.0171,0.0,1.0,605.6667,475.4983,1.0,Declining
+  Bankacýlýk,-0.0676,0.0172,0.0,1.0,145214.2,341.644,1.0,Declining
+Týp (Ankara),1.9697,-0.0078,0.0,1.0,4123.8,515.072,1.0,Declining
+Týp,0.0754,0.0027,0.0,1.0,8055.0283,506.8483,79.5,Declining
+  Endüstri Mühendisliði (Almanca),-0.036,0.0064,0.0,1.0,38778.26,455.458,2.6,Declining
+  Emlak ve Emlak Yönetimi,0.7951,-0.0786,0.0,1.0,334983.0,317.3633,1.0,Declining
+  Yazýlým Geliþtirme (Ýngilizce) (Ücretli),3.69,-0.1186,0.0,1.0,81691.5,425.745,2.0,Declining
+  Uluslararasý Ýþletme Yönetimi (Almanca) (%50 Ýndirimli),0.0842,0.0336,0.0,1.0,49914.3333,396.2767,2.0,Declining
+  Tapu Kadastro ,0.0264,0.0226,0.0,0.9983,159097.4167,339.5733,2.0,Declining
+  Uzay ve Uydu Mühendisliði,0.4766,-0.0038,0.0,1.0,95353.75,397.6475,1.0,Declining
+  Uluslararasý Ýþletme Yönetimi (Almanca) (UOLP- FH KIEL Uygulamalý Bilimler Üniversitesi) (Ücretli),-0.45,0.1303,0.0,1.0,218244.8333,340.3517,1.0,Declining
+  Ziraat Mühendisliði Programlarý,0.208,0.0434,0.0,1.0,187199.5833,331.8283,1.3333,Declining
+  Yönetim Biliþim Sistemleri (Ýngilizce) (Burslu),0.7827,-0.1495,0.0,1.0,134418.935,377.265,12.0,Declining
+  Yerel Yönetimler,0.6175,-0.0161,0.0,1.0,128989.5,348.0967,1.0,Declining
+  Yazýlým Mühendisliði (Ýngilizce) (UOLP-Sam Houston State) (Ücretli),-0.092,0.039,0.0,1.0,58779.8333,426.0383,1.0,Declining
+  Malzeme Bilimi ve Mühendisliði (Ýngilizce) (Burslu),-0.0729,0.1105,0.0,1.0,91746.6667,393.35,1.0,Declining
+Fizyoterapi ve Rehabilitasyon (Yüksekokul) (Ýngilizce) (%50 Ýndirimli),0.1093,0.0128,0.0,1.0,270323.75,286.84,1.5,Declining
+Fizyoterapi ve Rehabilitasyon (Yüksekokul) (Ücretli),0.2954,0.0453,0.0,1.0,184734.335,334.24,10.5,Declining
+Gemi Makineleri Ýþletme Mühendisliði (KKTC UYRUKLU),0.0299,0.0356,0.0,1.0,56922.7,432.2825,4.0,Declining
+Geleneksel Türk Sanatlarý (M.T.O.K.),4.6434,-0.0762,0.0,1.0,154319.3333,329.7433,1.0,Declining
+Fransýzca Öðretmenliði(Fransýzca),0.0844,0.0083,0.0,1.0,15850.842,411.924,8.2,Declining
+  Bilim Tarihi,-0.1101,0.0364,0.0,1.0,107244.0833,361.8483,1.6667,Declining
+  Bilgisayar Mühendisliði (M.T.O.K.) (ÝÖ),-0.0252,0.0554,0.0,1.0,172038.4,332.116,1.2,Declining
+  Bilgisayar Mühendisliði (Fransýzca),0.1721,0.0038,0.0,1.0,2505.0,525.458,1.4,Declining
+Psikoloji(ÝÖ),0.08,0.0032,0.0,1.0,35701.91,404.4333,50.5,Declining
+  Dil ve Konuþma Terapisi (KKTC Uyruklu),1.5401,-0.1357,0.0,1.0,284042.3133,328.38,7.3333,Declining
+  Maliye (KKTC Uyruklu),0.312,0.0301,0.0,1.0,688915.0,258.256,1.0,Declining
+  Kültür ve Ýletiþim Bilimleri,2.444,0.0103,0.0,1.0,7678.4167,436.6483,1.8333,Declining
+  Halkbilimi,0.6785,0.032,0.0,1.0,41061.3333,375.8467,1.0,Declining
+Havacýlýk Elektrik ve Elektroniði (Yüksekokul) (Ücretli),0.6404,0.0296,0.0,1.0,249276.165,304.56,2.0,Declining
+Havacýlýk Elektrik ve Elektroniði (Yüksekokul) (%25 Ýndirimli),0.0372,0.0814,0.0,1.0,258914.89,295.0067,2.0,Declining
+Perfüzyon (Fakülte) (Burslu),0.1923,0.0597,0.0,1.0,93330.5,386.895,1.0,Declining
+Pazarlama (Fakülte) (ÝÖ),0.0705,0.0675,0.0,1.0,408760.585,280.38,2.5,Declining
+Odyoloji (Ücretli),0.4518,-0.1225,0.0,1.0,655216.585,244.515,2.5,Declining
+Odyoloji (%25 Ýndirimli),0.2851,-0.0468,0.0,1.0,298157.5,288.84,3.0,Declining
+Pilotaj (Fakülte),2.4777,-0.002,0.0,1.0,351.5,544.365,1.0,Declining
+Pilotaj (Burslu),-0.1498,0.0675,0.0,1.0,6236.8333,506.31,2.0,Declining
+Peyzaj Mimarlýðý (Ýngilizce)KKTC Uyruklu,0.3825,0.0181,0.0,1.0,593680.6667,240.1867,1.3333,Declining
+Perfüzyon (Yüksekokul) (Burslu),-0.4518,0.3043,0.0,1.0,118472.5,368.06,1.0,Declining
+Gülhane Týp (Ankara) (Kýz) (Ýçiþleri Bakanlýðý Adýna),0.0835,0.047,0.0,1.0,14212.0,487.4325,1.0,Declining
+Gülhane Týp (Ankara) (Erkek) (Milli Savunma Bakanlýðý Adýna),0.1847,-0.0031,0.0,0.9983,21022.055,479.3767,3.5,Declining
+Grafik Tasarýmý (Ücretli),0.2479,-0.0163,0.0,1.0,598847.6667,267.7967,1.0,Declining
+Giriþimcilik (Ýngilizce) (Burslu),-0.1399,0.0043,0.0,1.0,2343.1,469.32,1.2,Declining
+Giriþimcilik (Burslu),0.2554,-0.0659,0.0,1.0,242326.3333,297.48,1.0,Declining
+Gerontoloji(Yüksekokul)(Burslu),0.0202,0.0782,0.0,1.0,93694.75,413.01,6.0,Declining
+Moda Tasarýmý (Fakülte) (M.T.O.K.),-0.1856,0.0975,0.0,1.0,267229.835,304.6,3.0,Declining
+Kimya-Biyoloji Mühendisliði (Ýngilizce) (Ücretli),1.2887,0.0296,0.0,1.0,101699.866,419.394,1.8,Declining
+Hukuk (ÝÖ),0.0469,0.0119,0.0,1.0,16539.566,425.096,5.4,Declining
+Hukuk (Çarþamba),-0.386,0.1619,0.0,1.0,7063.5,431.24,1.0,Declining
+Hukuk (UOLP-Hamburg Üniversitesi) (Ücretli),0.6131,-0.0078,0.0,1.0,214.8333,517.8733,1.0,Declining
+Hukuk (Fransýzca),1.18,-0.0033,0.0,1.0,6.3333,551.2367,1.0,Declining
+Hukuk,0.1066,0.0008,0.0,0.9983,6723.245,451.2967,41.5,Declining
+Hemþirelik(Fakülte)(Ücretli),-0.0973,0.1201,0.0,1.0,111270.21,378.495,137.5,Declining
+  Grafik,-0.0219,0.0217,0.0,1.0,130034.3,348.856,1.4,Declining
+Muhasebe ve Finans Yönetimi (Ýngilizce) (Burslu),1.7705,-0.0837,0.0,1.0,617547.0,273.8833,1.6667,Declining
+Moda ve Tekstil Tasarýmý(Burslu),1.8886,-0.0971,0.0,1.0,233988.5,326.805,3.0,Declining
+  Uluslararasý Giriþimcilik (%50 Ýndirimli),-0.2681,0.0777,0.0,1.0,134254.0,359.56,1.5,Declining
+  Uluslararasý Finans ve Bankacýlýk (Ýngilizce) (Ücretli),0.9755,-0.1044,0.0,1.0,589426.6675,281.6225,3.0,Declining
+  Türkoloji  ,0.4158,0.1263,0.0,1.0,153084.3333,343.4917,1.0,Declining
+  Türk Ýslam Arkeolojisi,-0.0725,0.0501,0.0,1.0,431424.25,288.6425,1.0,Declining
+  Turizm Ýþletmeciliði (Burslu),1.3376,-0.2035,0.0,1.0,599050.755,281.25,26.0,Declining
+Uluslararasý Ticaret ve Ýþletmecilik (Yüksekokul) (%50 Ýndirimli),0.4423,-0.0363,0.0,1.0,332558.75,285.875,1.5,Declining
+  Felsefe (Fransýzca),1.2193,-0.0167,0.0,1.0,2839.6667,472.0383,1.0,Declining
+Uluslararasý Ekonomik Ýliþkiler (%50 Ýndirimli),0.1929,0.0014,0.0,1.0,724019.75,257.285,1.0,Declining
+Týp(Ýngilizce)(UOLP-Marmara Üniversitesi)(T.C. Vatandaþlarý)(Burslu),0.2432,-0.0041,0.0,1.0,20173.0283,479.495,2.5,Declining
+Hemþirelik (Fakülte) (Ücretli),-0.0325,0.1578,0.0,1.0,150881.605,344.435,24.5,Declining
+Havacýlýk ve Uzay Mühendisliði (KKTC Uyruklu),0.1848,-0.0094,0.0,1.0,53940.3117,443.0417,7.5,Declining
+Havacýlýk Yönetimi(Yüksekokul)(%50 Ýndirimli),-0.2288,0.0809,0.0,1.0,191062.19,327.88,14.0,Declining
+Kültür ve Ýletiþim Bilimleri (KKTC UYRUKLU),105.6621,-0.0717,0.0,1.0,142922.1667,381.7233,1.3333,Declining
+Ýletiþim Tasarýmý ve Yönetimi(Burslu),0.2256,0.0288,0.0,1.0,44112.8517,391.9967,3.5,Declining
+  Astronomi ve Uzay Bilimleri (KKTC Uyruklu),-0.1302,0.0894,0.0,1.0,862327.1667,221.5533,1.6667,Declining
+  Arkeoloji ve Sanat Tarihi (Ýngilizce) (%50 Ýndirimli),0.2494,0.0095,0.0,1.0,1199.3333,483.5217,2.0,Declining
+Nanobilim ve Nanoteknoloji (KKTC Uyruklu),0.0743,0.08,0.0,1.0,659204.0,226.49,1.0,Declining
+Müzecilik (KKTC UYRUKLU),0.5386,-0.0078,0.0,1.0,576059.8333,249.7133,1.3333,Declining
+Ýþ Saðlýðý ve Güvenliði (Yüksekokul) (KKTC Uyruklu),-0.0099,0.0674,0.0,1.0,453762.0,252.11,1.0,Declining
+Hemþirelik (Yüksekokul) (Burslu) ,0.1926,0.049,0.0,1.0,193017.81,324.07,18.0,Declining
+Matematik Öðretmenliði (Ýngilizce) (KKTC Uyruklu),0.9409,-0.028,0.0,1.0,30774.5417,471.84,2.3333,Declining
+Makine Mühendisliði (Almanca),-0.2632,0.0576,0.0,1.0,26229.4,467.81,2.0,Declining
+Lojistik Yönetimi(Fakülte)(Ýngilizce)(%50 Ýndirimli),-0.0144,0.0381,0.0,1.0,262034.77,320.83,11.5,Declining
+Özel Eðitim Öðretmenliði (KKTC Uyruklu),3.2158,-0.0572,0.0,1.0,91912.0,364.99,1.3333,Declining
+  Antrenörlük Eðitimi (ÝÖ),0.2547,0.0014,-0.0001,0.966,231409.516,319.192,5.4,Declining
+  Ýstatistik,-0.0914,0.0564,-0.0001,0.9717,186129.5583,339.0417,18.1667,Declining
+  Ekonomi ve Finans (Ýngilizce) (%50 Ýndirimli),0.2291,-0.0004,-0.0003,0.915,224308.4417,342.9117,18.3333,Declining
+Elektrik-Elektronik Mühendisliði (M.T.O.K.) (ÝÖ),0.0203,0.0149,-0.0008,0.895,107847.7067,389.7667,142.0,Declining
+Kimya(Ýngilizce)(Burslu),0.1057,0.0069,-0.0008,0.9817,89122.0,407.0083,22.6667,Declining
+Elektrik-Elektronik Mühendisliði (Ýngilizce)KKTC Uyruklu,-0.0133,-0.0021,-0.0009,0.922,65718.366,435.982,43.6,Declining
+Uluslararasý Finans ve Bankacýlýk (Ýngilizce) (%50 Ýndirimli),0.5529,0.0058,-0.001,0.91,257214.41,339.7767,7.8333,Declining
+Endüstriyel Tasarým(Burslu),0.1341,0.0059,-0.0014,0.932,141306.35,362.954,9.8,Declining
+Kimya Mühendisliði (Ýngilizce) (KKTC Uyruklu),0.0063,0.0137,-0.0015,0.965,61574.2267,436.0133,139.6667,Declining
+  Amerikan Kültürü ve Edebiyatý (Ýngilizce) (%50 Ýndirimli),0.0956,0.013,-0.0017,0.9567,19919.2267,410.8883,14.3333,Declining
+Ýngilizce Öðretmenliði(Ýngilizce),0.1796,0.0034,-0.0018,0.9883,10715.67,441.6883,46.1667,Declining
+  Mühendislik Programlarý (Ýngilizce) (%25 Ýndirimli),-0.1309,0.0302,-0.0019,0.9933,30019.125,467.6433,3.6667,Strongly Declining
+Okul Öncesi Öðretmenliði (Ýngilizce),0.1132,0.0085,-0.0019,0.9883,15445.4367,418.1517,90.5,Strongly Declining
+  Yapay Zeka ve Veri Mühendisliði (Ýngilizce) (KKTC Uyruklu),1.1546,-0.0067,-0.002,0.9967,14841.22,499.415,6.1667,Strongly Declining
+Dil ve Konuþma Terapisi (Fakülte) (KKTC Uyruklu),0.2713,-0.0136,-0.0021,0.975,102078.5067,406.39,22.3333,Strongly Declining
+Halkla Ýliþkiler ve Tanýtým(Açýköðretim),0.0751,0.0121,-0.0022,0.95,137407.565,349.2917,43.3333,Strongly Declining
+  Ýstatistik ve Bilgisayar Bilimleri (KKTC Uyruklu),0.1403,0.0356,-0.0025,0.9783,216997.245,327.2133,4.5,Strongly Declining
+  Moleküler Biyoloji ve Genetik (Ýngilizce) (%50 Ýndirimli),0.2383,-0.0098,-0.0026,0.975,111934.9883,403.44,34.6667,Strongly Declining
+  Görsel Ýletiþim Tasarýmý (Ýngilizce) (Ücretli),0.5265,-0.0146,-0.0026,0.9317,200300.9583,367.9583,10.6667,Strongly Declining
+Arapça Mütercim ve Tercümanlýk (Yüksekokul) (Burslu),0.1379,-0.0004,-0.0028,0.914,11949.478,430.932,3.4,Strongly Declining
+  Rehberlik ve Psikolojik Danýþmanlýk (%50 Ýndirimli),0.0302,0.0058,-0.003,0.9533,79393.585,375.6317,108.0,Strongly Declining
+Gastronomi ve Mutfak Sanatlarý(Fakülte)(Ýngilizce)(Ücretli),0.0222,0.0134,-0.0032,0.975,71686.9633,382.0067,107.6667,Strongly Declining
+Bilgisayar Mühendisliði(Ýngilizce),-0.0261,0.0171,-0.0033,0.975,78120.4867,414.0317,121.8333,Strongly Declining
+  Ergoterapi,0.0705,0.0302,-0.0033,0.995,143616.625,362.48,4.0,Strongly Declining
+Ýngiliz Dili ve Edebiyatý (Ýngilizce) (Uzaktan Öðretim),0.0619,0.0092,-0.0034,0.975,19503.8833,407.3717,117.3333,Strongly Declining
+Eczacýlýk (Ýngilizce) (Ücretli),-0.0281,0.0165,-0.0035,0.9517,49739.115,439.9483,23.8333,Strongly Declining
+Yönetim Biliþim Sistemleri (Fakülte) (%50 Ýndirimli),-0.099,0.0406,-0.0036,0.98,164533.9983,347.815,75.3333,Strongly Declining
+Beslenme ve Diyetetik (Fakülte) (Ýngilizce) (Burslu),0.1745,0.0107,-0.0036,0.94,191417.8883,346.73,12.8333,Strongly Declining
+"  Radyo, Televizyon ve Sinema (Ücretli)",0.2695,-0.0044,-0.0037,0.95,95486.012,365.912,73.4,Strongly Declining
+Arapça Öðretmenliði (Burslu),0.11,0.0005,-0.0039,0.99,13698.4283,421.8867,22.8333,Strongly Declining
+Karþýlaþtýrmalý Edebiyat(ÝÖ),0.0949,0.0138,-0.0039,0.9917,16212.75,413.2267,3.1667,Strongly Declining
+Dijital Oyun Tasarýmý (Ýngilizce) (%50 Ýndirimli),0.2282,-0.0095,-0.0044,0.96,145368.345,378.2233,11.8333,Strongly Declining
+"  Radyo, Televizyon ve Sinema (Ýngilizce) (%50 Ýndirimli)",0.2031,-0.0031,-0.0044,0.81,239075.186,320.78,25.0,Strongly Declining
+  Biyomedikal Mühendisliði (Ücretli),0.0449,0.0118,-0.0047,0.7433,148962.7133,354.2683,19.3333,Strongly Declining
+  Antropoloji (Ýngilizce) (Burslu),0.2605,0.0071,-0.0051,0.9717,115211.915,386.385,87.3333,Strongly Declining
+Ýngiliz Dili ve Karþýlaþtýrmalý Edebiyat(Ýngilizce)(Burslu),-0.0268,0.0122,-0.0054,0.9733,3749.2833,483.345,5.3333,Strongly Declining
+  Sosyoloji  (Burslu),0.158,-0.0013,-0.0054,0.9833,75910.74,380.575,58.3333,Strongly Declining
+Matematik (Ýngilizce) (Burslu),-0.0036,0.0197,-0.0055,0.9817,95921.735,413.0,18.5,Strongly Declining
+  Yeni Medya ve Ýletiþim (Burslu),1.2818,-0.0141,-0.0057,0.93,121380.5117,365.2833,19.5,Strongly Declining
+Ýnsan Kaynaklarý Yönetimi (Fakülte) (Ýngilizce) (Burslu),1.8026,-0.0535,-0.0059,0.7,483405.1667,292.2933,2.6667,Strongly Declining
+Bilgisayar Teknolojisi ve Biliþim Sistemleri(Yüksekokul),-0.0277,0.0408,-0.0059,0.9883,213922.25,313.3083,1.5,Strongly Declining
+  Tarýmsal Genetik Mühendisliði (Ýngilizce),0.641,-0.0226,-0.006,0.995,149504.3333,360.6117,1.0,Strongly Declining
+  Otel Yöneticiliði (Ýngilizce) (Burslu),10.4951,-0.0211,-0.0067,0.925,157633.2917,380.9083,2.8333,Strongly Declining
+  Ergoterapi (Burslu) ,0.0903,0.0314,-0.0067,0.92,189141.5325,334.2925,10.25,Strongly Declining
+Ýç Mimarlýk (ÝÖ),0.0556,0.0471,-0.0067,0.995,238759.75,295.1,1.5,Strongly Declining
+  Matematik (ÝÖ),0.3793,0.0535,-0.0067,0.995,141997.0,360.34,1.0,Strongly Declining
+  Endüstri Mühendisliði (Ýngilizce) (%50 Ýndirimli),0.0082,0.0156,-0.0068,0.9433,82494.1067,414.3933,90.3333,Strongly Declining
+  Ýç Mimarlýk ve Çevre Tasarýmý (Ýngilizce) (Ücretli),0.9277,-0.0149,-0.007,0.9733,206039.475,351.94,20.1667,Strongly Declining
+  Bilgisayar Mühendisliði (Ýngilizce) (%50 Ýndirimli),-0.0153,0.017,-0.0072,0.96,63810.635,435.215,98.8333,Strongly Declining
+Fizyoterapi ve Rehabilitasyon(Fakülte)(Ýngilizce)(Burslu),0.1866,-0.0176,-0.0073,0.97,199822.6767,337.295,118.6667,Strongly Declining
+Ýþletme(Ýngilizce)(Ücretli),-0.0432,0.0107,-0.0073,0.98,96573.095,380.765,32.3333,Strongly Declining
+  Mekatronik Mühendisliði (%50 Ýndirimli),0.0043,0.0377,-0.0074,0.9717,89961.4367,399.8533,6.8333,Strongly Declining
+Çeviribilimi (Ýngilizce) (Burslu),0.9452,0.0397,-0.0075,0.9817,3135.7783,503.595,2.5,Strongly Declining
+  Makine Mühendisliði (Ýngilizce) (%50 Ýndirimli),-0.0036,0.0181,-0.0078,0.91,84261.345,413.7,53.0,Strongly Declining
+Ýlköðretim Matematik Öðretmenliði (%50 Ýndirimli),-0.0055,0.014,-0.008,0.9833,67137.7033,420.185,96.3333,Strongly Declining
+Uluslararasý Ticaret ve Lojistik Yönetimi(Fakülte)(Ýngilizce)(Burslu),0.2963,0.0074,-0.0081,0.9417,162081.9533,359.7333,21.5,Strongly Declining
+Sinema ve Televizyon (Ücretli),0.3564,0.0057,-0.0084,0.9567,51219.9233,395.7117,10.8333,Strongly Declining
+  Ýç Mimarlýk ve Çevre Tasarýmý (Ücretli),0.2057,-0.0052,-0.0086,0.97,185235.7317,342.5133,43.0,Strongly Declining
+  Ýslami Ýlimler (Arapça) (Burslu),0.8542,-0.0321,-0.009,0.945,56038.9717,404.99,5.1667,Strongly Declining
+  Hemþirelik (Burslu) ,0.0328,0.0414,-0.009,0.975,140873.66,359.73,66.75,Strongly Declining
+Yazýlým Geliþtirme (Ýngilizce) (Burslu),0.8915,-0.026,-0.0091,0.9567,133834.655,418.1833,93.1667,Strongly Declining
+Gastronomi ve Mutfak Sanatlarý (Fakülte) (Ýngilizce) (Ücretli),1.8896,0.0177,-0.0093,0.966,38218.694,423.594,14.6,Strongly Declining
+Ýstanbul Týp (Ýngilizce) (KKTC Uyruklu),0.3761,-0.0255,-0.0095,0.968,179005.624,352.108,13.2,Strongly Declining
+  Ýslami Ýlimler (Burslu),1.5386,0.0022,-0.0095,0.9783,1118.5,476.645,2.1667,Strongly Declining
+Yazýlým Mühendisliði(M.T.O.K.),-0.0005,0.0198,-0.0098,0.9783,79107.4267,409.8217,24.5,Strongly Declining
+  Medya ve Görsel Sanatlar (Ýngilizce) (Burslu),1.6865,0.044,-0.01,0.9917,6058.8333,477.6283,2.0,Strongly Declining
+Turizm Rehberliði (Ermenek),-0.0661,0.024,-0.01,0.995,69497.5,308.47,1.5,Strongly Declining
+Yönetim Biliþim Sistemleri (Yüksekokul) (Ýngilizce) (%50 Ýndirimli),1.1492,-0.0929,-0.01,0.995,185016.565,350.795,13.0,Strongly Declining
+  Endüstriyel Tasarým (Ýngilizce) (Ücretli),0.3728,-0.0249,-0.0108,0.962,147659.138,380.27,11.2,Strongly Declining
+  Ýnþaat Mühendisliði (Ýngilizce) (%50 Ýndirimli),0.0308,0.0143,-0.0114,0.9067,100800.9017,397.3317,112.3333,Strongly Declining
+  Turizm Ýþletmeciliði (KKTC Uyruklu),4.5632,-0.0144,-0.0118,0.9525,196373.5825,362.0875,3.25,Strongly Declining
+Elektronik Ticaret ve Teknoloji Yönetimi(Ýngilizce)(Burslu),8.4278,-0.0144,-0.012,0.98,133026.75,397.495,1.5,Strongly Declining
+Diþ Hekimliði (Ýngilizce) (Ücretli),0.0506,0.0035,-0.0121,0.9283,28970.7533,468.0967,27.6667,Strongly Declining
+  Rus Dili ve Edebiyatý (Rusça) (Burslu),0.4437,-0.0038,-0.0122,0.9833,15658.6567,420.6183,4.1667,Strongly Declining
+Grafik Tasarým(Ýngilizce)(Burslu),0.3044,-0.0146,-0.0123,0.92,160984.085,346.715,6.6667,Strongly Declining
+Mimarlýk (Ýngilizce) (Ücretli),0.1533,0.0004,-0.0123,0.912,81155.8,408.416,38.4,Strongly Declining
+  Çizgi Film ve Animasyon (Burslu),9.7706,-0.0018,-0.0124,0.9567,71488.0217,400.5583,11.1667,Strongly Declining
+  Özel Eðitim Öðretmenliði (Ýngilizce) (Burslu),14.1767,0.012,-0.0124,0.952,19182.4,439.982,1.8,Strongly Declining
+Havacýlýk ve Uzay Mühendisliði(Ýngilizce)(%75 Ýndirimli),0.1686,0.0323,-0.0125,0.9633,51603.2767,444.3967,5.0,Strongly Declining
+Beslenme ve Diyetetik(Fakülte)(%25 Ýndirimli),0.2864,-0.0273,-0.0127,0.946,190927.152,345.05,78.4,Strongly Declining
+Diþ Hekimliði (Ücretli),-0.0359,0.0189,-0.0128,0.9483,36739.2667,454.4183,35.3333,Strongly Declining
+Pazarlama(Fakülte)(Ýngilizce)(%75 Ýndirimli),0.9671,-0.0863,-0.0129,0.942,313870.362,360.644,5.2,Strongly Declining
+  Yazýlým Mühendisliði (Burslu),0.0651,0.0109,-0.0132,0.9417,94090.4083,396.605,7.6667,Strongly Declining
+Endüstri Mühendisliði(Ýngilizce)(ÝÖ),-0.0511,0.0287,-0.0139,0.9667,99057.3367,397.6767,28.3333,Strongly Declining
+Malzeme Bilimi ve Nanoteknoloji Mühendisliði (Ýngilizce) (%50 Ýndirimli),-0.002,0.0213,-0.0139,0.9733,56455.975,435.9267,4.5,Strongly Declining
+  Hukuk (Burslu),0.0857,0.0002,-0.014,0.9767,16114.8467,439.8233,46.8333,Strongly Declining
+Görsel Sanatlar ve Görsel Ýletiþim Tasarýmý(Ýngilizce)(Burslu),-0.0736,0.0426,-0.0153,0.955,50636.7433,421.8767,9.3333,Strongly Declining
+  Sigortacýlýk,0.2036,-0.0055,-0.0154,0.906,342190.44,298.692,4.2,Strongly Declining
+Halkla Ýliþkiler ve Reklamcýlýk(Fakülte)(Ýngilizce)(Burslu),0.0598,0.0181,-0.0155,0.9133,162505.0767,347.0083,44.0,Strongly Declining
+Televizyon Haberciliði ve Programcýlýðý (Fakülte) (Ýngilizce) (Burslu),0.0803,0.0145,-0.0161,0.9017,75308.695,381.4033,4.6667,Strongly Declining
+Dijital Oyun Tasarýmý (Ücretli),0.4388,0.0128,-0.0162,0.975,121247.6933,387.0133,6.6667,Strongly Declining
+Tarým Ekonomisi (Ýngilizce) (%50 Ýndirimli),0.5306,0.014,-0.0165,0.9725,343882.585,306.455,2.0,Strongly Declining
+  Görsel Ýletiþim Tasarýmý (Ücretli),0.2258,0.0042,-0.0172,0.9383,97119.53,378.3367,38.6667,Strongly Declining
+Gümrük Ýþletme(Burslu),-0.0413,0.0211,-0.0176,0.9533,186254.83,337.1967,26.1667,Strongly Declining
+Genetik ve Biyomühendislik(Ýngilizce)(%75 Ýndirimli),0.1096,0.0006,-0.0184,0.9633,49095.5417,439.5367,4.3333,Strongly Declining
+Fizyoterapi ve Rehabilitasyon (Fakülte) (Ýngilizce) (%50 Ýndirimli),0.1012,0.0009,-0.0193,0.935,204961.6217,336.9683,14.8333,Strongly Declining
+Gazetecilik (Burslu),0.5835,-0.0003,-0.0193,0.93,108486.872,351.244,5.8,Strongly Declining
+Medya ve Ýletiþim(Fakülte)(Ýngilizce)(Burslu),3.6572,0.0056,-0.0194,0.9383,42277.5533,416.3533,8.3333,Strongly Declining
+  Hemþirelik (Ýngilizce) (Ücretli),0.0004,0.048,-0.0194,0.965,123589.0025,373.86,21.0,Strongly Declining
+Endüstriyel Tasarým (Yüksekokul),-0.0905,0.1196,-0.0194,0.964,234703.12,319.01,9.2,Strongly Declining
+Týp (Burslu),0.138,-0.0005,-0.02,0.9633,9190.4633,504.64,25.5,Strongly Declining
+  Kanatlý Hayvan Yetiþtiriciliði,8.4395,0.1798,-0.02,0.985,317453.75,324.84,1.0,Strongly Declining
+Spor Yöneticiliði (Fakülte) (Burslu),0.1298,0.0376,-0.02,0.99,234357.295,313.115,20.0,Strongly Declining
+  Ekonometri (ÝÖ),-0.5521,0.1618,-0.02,0.99,370806.0,309.175,1.5,Strongly Declining
+"  Ýngilizce, Fransýzca Mütercim ve Tercümanlýk (Burslu)",27.2291,-0.029,-0.02,0.985,1697.625,519.9475,1.25,Strongly Declining
+Sosyal Hizmet (Fakülte) (Ücretli),0.2299,0.0219,-0.02,0.99,197948.235,324.755,63.5,Strongly Declining
+Çocuk Geliþimi (Yüksekokul) (Ücretli),0.1835,0.0228,-0.02,0.99,188774.725,324.36,12.0,Strongly Declining
+  Medya ve Ýletiþim (Burslu),6.2378,-0.0136,-0.0205,0.928,17610.434,441.924,2.2,Strongly Declining
+Ýletiþim ve Tasarýmý (Ücretli),46.9975,-0.0326,-0.0208,0.9217,106897.86,381.6183,11.6667,Strongly Declining
+  Reklamcýlýk (Burslu),0.097,0.0012,-0.0217,0.9617,37316.43,440.22,12.5,Strongly Declining
+Ýletiþim Bilimleri (Burslu),0.1603,0.0265,-0.0222,0.965,20705.7483,406.0333,2.8333,Strongly Declining
+  Ekonomi ve Finans (KKTC Uyruklu),0.4697,0.0206,-0.0222,0.962,415981.134,311.142,2.8,Strongly Declining
+Dil ve Konuþma Terapisi (Fakülte) (Ýngilizce) (%50 Ýndirimli),0.0874,0.0023,-0.0226,0.97,59996.89,427.1383,2.5,Strongly Declining
+  Ýktisat (Burslu) ,0.0061,0.0204,-0.0229,0.955,161909.6833,349.2317,8.6667,Strongly Declining
+  Ýstatistik (Burslu),-0.1625,0.0798,-0.0233,0.9567,142826.8333,356.265,1.0,Strongly Declining
+Ýç Mimarlýk (Burslu),0.1104,-0.0003,-0.0244,0.94,136572.1883,366.675,46.5,Strongly Declining
+  Bilim Tarihi (Burslu),0.0289,0.0476,-0.0247,0.9717,202864.0,328.045,1.0,Strongly Declining
+  Coðrafya (ÝÖ),0.1502,-0.0364,-0.0255,0.904,208334.408,307.1,10.0,Strongly Declining
+  Sigortacýlýk (Burslu),-0.0476,0.0722,-0.0256,0.9075,246270.5,313.21,1.0,Strongly Declining
+Saðlýk Yönetimi (Ýngilizce) (Burslu),0.7223,-0.025,-0.0258,0.94,258920.542,322.252,21.2,Strongly Declining
+Sanat ve Kültür Yönetimi(Ýngilizce)(%75 Ýndirimli),-0.0441,0.0132,-0.0268,0.94,2259.555,444.8767,2.1667,Strongly Declining
+"  Radyo, Televizyon ve Sinema (Ýngilizce) (Ücretli)",0.1851,-0.0198,-0.0271,0.896,185347.406,369.72,11.2,Strongly Declining
+Halkla Ýliþkiler ve Reklamcýlýk (Fakülte) (Ýngilizce) (%50 Ýndirimli),0.0715,0.0585,-0.0271,0.9017,141112.3917,376.425,11.3333,Strongly Declining
+Felsefe(Ýngilizce)(KKTC Uyruklu),2.062,0.07,-0.0275,0.978,57812.416,423.214,3.2,Strongly Declining
+  Sinema ve Dijital Medya (Ýngilizce) (%50 Ýndirimli),3.1608,-0.0125,-0.0287,0.9567,28218.5,408.1483,1.8333,Strongly Declining
+  Gemi ve Yat Tasarýmý (Burslu),0.1074,0.0314,-0.0291,0.965,142836.5833,360.4617,1.1667,Strongly Declining
+  Çince Mütercim ve Tercümanlýk (Burslu),0.2369,-0.0079,-0.0292,0.948,5571.0,462.864,1.0,Strongly Declining
+Çocuk Geliþimi (Fakülte) (Ücretli),0.2642,0.0318,-0.03,0.985,148462.43,341.24,31.0,Strongly Declining
+Beslenme ve Diyetetik (Yüksekokul) (%25 Ýndirimli),0.1794,0.0582,-0.03,0.985,199518.03,326.345,29.5,Strongly Declining
+Siyasal Bilimler (Burslu),0.7984,0.0236,-0.03,0.975,75230.3333,424.125,1.1667,Strongly Declining
+Ýlköðretim Matematik Öðretmenliði (Ýngilizce) (Burslu),0.1514,-0.0019,-0.0362,0.962,62811.366,417.156,3.0,Strongly Declining
+  Tarih (Burslu),0.1223,0.0166,-0.0382,0.905,53614.5767,407.9183,10.1667,Strongly Declining
+Sosyal Hizmet (Ücretli),0.3624,0.0736,-0.0394,0.8733,333823.14,302.39,16.0,Strongly Declining
+  Matematik (Burslu),-0.0082,0.0284,-0.0396,0.945,130489.5,359.9367,3.0,Strongly Declining
+  Reklamcýlýk (Ýngilizce) (Burslu),-0.1586,0.0207,-0.0399,0.9483,2323.2783,451.7083,3.1667,Strongly Declining
+Yeni Medya ve Ýletiþim (KKTC Uyruklu),-0.8269,0.7131,-0.04,0.98,316063.035,301.91,7.5,Strongly Declining
+Gastronomi(Yüksekokul)(Ýngilizce)(%75 Ýndirimli),0.6174,-0.0519,-0.04,0.98,212892.8,314.67,7.5,Strongly Declining
+  Yapay Zeka Mühendisliði (Burslu),0.9583,-0.0264,-0.0408,0.9567,64139.0,451.4833,1.6667,Strongly Declining
+Sosyoloji (Burslu),0.0655,0.0052,-0.0431,0.924,202107.552,322.066,24.6,Strongly Declining
+  Felsefe (Burslu),0.24,0.0016,-0.0455,0.9267,159195.75,344.8867,3.1667,Strongly Declining
+  Uluslararasý Ticaret (%50 Ýndirimli),0.1047,0.0477,-0.0463,0.934,279742.614,314.822,2.8,Strongly Declining
+Enerji Yönetimi (Burslu),0.106,0.0308,-0.0467,0.965,130856.75,338.7325,1.0,Strongly Declining
+  Perfüzyon (Burslu),0.0574,0.037,-0.052,0.945,163440.375,341.56,2.0,Strongly Declining
+  Muhasebe ve Finans Yönetimi (Ýngilizce) (Burslu),0.8381,-0.075,-0.0591,0.8125,399185.0,296.9425,2.0,Strongly Declining
+Yeni Medya (Fakülte) (Ýngilizce) (%50 Ýndirimli),5.4291,-0.0952,-0.0633,0.9525,199101.425,358.355,5.25,Strongly Declining
+Ýletiþim Sanatlarý (Burslu),0.8687,0.001,-0.067,0.922,41961.1,373.884,1.2,Strongly Declining
+  Ekonomi (Burslu),-0.1563,0.189,-0.07,0.9533,241929.0,316.25,1.0,Strongly Declining
+  Yeni Medya (Burslu),4.0215,-0.0348,-0.0744,0.88,8894.5,441.7825,1.0,Strongly Declining
+Hemþirelik (Yüksekokul) (Ýngilizce) (Ücretli),2.2989,-0.0879,-0.08,0.96,104713.29,422.565,9.0,Strongly Declining
+Medya ve Görsel Sanatlar (Ýngilizce) (%50 Ýndirimli),4.0071,-0.0704,-0.0825,0.934,262561.334,361.418,2.2,Strongly Declining
+  Saðlýk Yönetimi (Ýngilizce) (Ücretli),0.1848,-0.1146,-0.1,0.095,1649663.5,192.13,1.0,Strongly Declining
+Lojistik Yönetimi(Yüksekokul)(KKTC Uyruklu),0.1786,0.009,-0.1,0.95,346497.59,292.685,9.5,Strongly Declining
+Gastronomi ve Mutfak Sanatlarý (Yüksekokul) (Ýngilizce) (Ücretli),0.3238,-0.0393,-0.11,0.945,109019.15,360.48,26.5,Strongly Declining
+Elektrik-Elektronik Mühendisliði (Ýngilizce-Fransýzca) (UOLP-ECAM-Lyon) (%50 Ýndirimli),0.565,-0.0906,-0.1379,0.7967,92936.8333,382.0567,1.6667,Strongly Declining
+Ýlköðretim Matematik Öðretmenliði (Ýngilizce) (%50 Ýndirimli),0.0826,0.0348,-0.1664,0.844,115796.6,373.812,3.4,Strongly Declining
+  Bilgisayar Mühendisliði (Uzaktan Öðretim) (Ücretli) ,0.6944,-0.02,-0.1691,0.6925,79627.375,404.2075,1.75,Strongly Declining
+Grafik (Burslu),-0.2345,0.0086,-0.17,0.915,244750.5,323.72,1.0,Strongly Declining
+Muhasebe ve Finans Yönetimi (Yüksekokul) (Ýngilizce) (Burslu),1.0022,-0.026,-0.17,0.915,237036.325,330.425,16.5,Strongly Declining
+Turizm Rehberliði (Yüksekokul) (%50 Ýndirimli),0.0858,-0.0105,-0.17,0.915,30182.5,351.895,2.5,Strongly Declining
+Uluslararasý Ticaret ve Ýþletmecilik (Fakülte) (Ýngilizce) (Ücretli),4.3642,-0.2918,-0.17,0.915,316772.465,319.045,7.5,Strongly Declining
+Spor Yöneticiliði (Yüksekokul) (Burslu),0.6416,-0.0528,-0.18,0.91,298980.215,303.68,11.0,Strongly Declining
+Turizm Ýþletmeciliði (Yüksekokul),8.4861,-0.1198,-0.19,0.905,206435.0,298.205,6.5,Strongly Declining
+Biyoenformatik ve Genetik (Ýngilizce) (%50 Ýndirimli),0.7564,-0.11,-0.19,0.8733,109924.1667,375.8967,2.0,Strongly Declining
+Saðlýk Yönetimi (Yüksekokul) (%50 Ýndirimli),0.3993,-0.0273,-0.21,0.895,355603.89,282.455,7.5,Strongly Declining
+Turizm Rehberliði (Yüksekokul) (Ýngilizce) (%50 Ýndirimli),0.5456,-0.07,-0.22,0.89,20818.0,379.885,1.0,Strongly Declining
+Gastronomi ve Mutfak Sanatlarý (Yüksekokul) (Ýngilizce) (%50 Ýndirimli),0.4549,-0.0412,-0.23,0.885,130552.35,351.52,9.0,Strongly Declining
+Havacýlýk Yönetimi (Fakülte) (%50 Ýndirimli),0.2065,0.0141,-0.24,0.88,303886.57,300.96,9.0,Strongly Declining
+Turizm Ýþletmeciliði (Yüksekokul) (Ýngilizce) (Burslu),37.4811,-0.2559,-0.3,0.85,215902.55,363.13,5.5,Strongly Declining
+  Kamu Yönetimi (Ýngilizce) (Ücretli),8.2552,-0.2181,-0.3675,0.6767,698141.4433,295.4433,1.6667,Strongly Declining
+Tekstil ve Moda Tasarýmý (Yüksekokul),1.5769,-0.0896,-0.39,0.805,236816.5,318.355,1.5,Strongly Declining
+Çocuk Geliþimi (Yüksekokul) (Ýngilizce) (%50 Ýndirimli),0.6387,-0.0573,-0.4,0.8,302855.665,293.515,2.5,Strongly Declining
+Acil Yardým ve Afet Yönetimi (Fakülte) (Ýngilizce) (Burslu),0.6182,-0.0928,-0.4754,0.2867,960092.6667,207.8733,1.0,Strongly Declining
+Gazetecilik (Ücretli),0.4413,0.0366,-0.78,0.61,929502.5,220.74,1.0,Strongly Declining
+Sosyal Hizmet(Yüksekokul)(Ýngilizce)(Burslu),4.2258,-0.3029,-0.8,0.6,406769.2,289.97,3.0,Strongly Declining
+  Acil Yardým ve Afet Yönetimi (Ýngilizce) (Burslu),,,,0.5,604734.5,239.22,2.0,
+  Almanca Öðretmenliði (Almanca),,,,0.97,51733.52,412.16,33.0,
+  Arap Dili ve Edebiyatý (ÝÖ),,,,0.97,23701.61,419.51,36.0,
+  Arkeoloji (Ýngilizce) (Burslu),,,,1.0,47064.0,434.29,5.0,
+  Bahçe Bitkileri (Ýngilizce) (%50 Ýndirimli),,,,0.8,838312.0,217.24,1.0,
+  Bahçe Bitkileri (Ýngilizce) (Burslu),,,,1.0,461378.5,275.79,2.0,
+  Biliþim Sistemleri Mühendisliði (M.T.O.K.),,,,1.0,130683.44,389.15,9.0,
+  Biyoloji Öðretmenliði (KKTC Uyruklu),,,,0.5,176200.0,349.86,1.0,
+  Biyomedikal Mühendisliði (M.T.O.K.),,,,1.0,164291.75,357.52,4.0,
+  Coðrafya (KKTC Uyruklu),,,,1.0,289817.0,309.72,1.0,
+  Coðrafya Öðretmenliði,,,,1.0,16342.14,421.43,7.0,
+  Dijital Oyun Tasarýmý (Ücretli),,,,1.0,372082.0,278.0,1.0,
+  Ebelik (Ankara),,,,1.0,114408.0,392.77,1.0,
+  Ebelik (Burslu),,,,1.0,190887.28,344.33,18.0,
+  Ekonomi,,,,1.0,276583.0,323.95,2.0,
+  Elektronik Ticaret ve Yönetimi,,,,1.0,654054.0,270.1,1.0,
+  Ergoterapi (Ýngilizce) (Ücretli),,,,0.1,858141.0,215.66,1.0,
+  Finans ve Bankacýlýk (Burslu),,,,1.0,394794.97,306.88,35.0,
+  Fotonik (Ýngilizce),,,,1.0,80434.0,424.33,1.0,
+  Gazetecilik (%25 Ýndirimli),,,,0.62,807641.0,250.99,1.0,
+  Gazetecilik (Burslu),,,,0.9,304323.06,327.55,16.0,
+  Gazetecilik (Ücretli),,,,0.82,469054.0,277.37,4.0,
+  Gazetecilik (Ýngilizce) (Burslu),,,,0.97,158432.79,425.07,33.0,
+  Gemi ve Yat Tasarýmý (%25 Ýndirimli),,,,1.0,280036.0,304.51,1.0,
+  Hemþirelik (ÝÖ),,,,1.0,169034.67,354.52,3.0,
+  Kamu Yönetimi (Açýköðretim),,,,1.0,371883.05,313.53,21.0,
+  Kimya Mühendisliði (Burslu),,,,0.95,91365.22,422.52,45.0,
+  Lojistik Yönetimi (Burslu),,,,1.0,252019.29,331.34,7.0,
+  Malzeme Bilimi ve Nanoteknoloji Mühendisliði (Ýngilizce) (%50 Ýndirimli),,,,1.0,101279.0,404.33,1.0,
+  Matematik (Uzaktan Öðretim),,,,1.0,28880.0,483.77,1.0,
+  Metalurji ve Malzeme Mühendisliði (%50 Ýndirimli),,,,0.12,270987.0,307.63,1.0,
+  Odyoloji,,,,1.0,171916.17,355.34,12.0,
+  Rekreasyon (ÝÖ),,,,1.0,331516.0,313.02,1.0,
+  Rekreasyon Yönetimi,,,,0.99,180816.0,336.43,20.0,
+  Rekreasyon Yönetimi (M.T.O.K.),,,,1.0,354281.0,299.95,1.0,
+  Sanat Tarihi (KKTC Uyruklu),,,,1.0,455687.0,286.7,1.0,
+  Sanat Tarihi (ÝÖ),,,,0.85,127419.2,356.33,5.0,
+  Sinema ve Televizyon (Burslu),,,,1.0,28065.0,404.55,3.0,
+  Sinoloji,,,,1.0,4827.0,476.99,1.0,
+  Sosyal Hizmet (Ücretli),,,,0.99,384834.67,314.31,27.0,
+  Sýnýf Öðretmenliði (Ýngilizce) (Burslu),,,,1.0,68541.4,408.74,15.0,
+  Tarih  ,,,,1.0,240320.0,318.18,1.0,
+  Tarih Öðretmenliði,,,,1.0,46235.17,416.15,12.0,
+  Tarým Ekonomisi (Ýngilizce) (%50 Ýndirimli),,,,1.0,345371.0,310.52,1.0,
+  Tekstil Tasarýmý (M.T.O.K.),,,,1.0,561229.5,281.58,2.0,
+  Turizm Rehberliði (Ýngilizce) (Ücretli),,,,1.0,72132.0,278.63,2.0,
+  Týp,,,,1.0,5662.5,533.08,4.0,
+  Uluslararasý Finans ve Bankacýlýk  (%50 Ýndirimli),,,,1.0,439907.0,295.59,1.0,
+  Yazýlým Mühendisliði (%25 Ýndirimli),,,,0.59,111022.0,395.68,1.0,
+  Çizgi Film ve Animasyon (%50 Ýndirimli),,,,1.0,131208.6,357.31,10.0,
+  Ýktisat  ,,,,1.0,580083.5,287.03,2.0,
+  Ýlahiyat (Arapça) (M.T.O.K.) ,,,,1.0,198939.83,356.21,6.0,
+  Ýletiþim ve Tasarýmý (Ücretli),,,,1.0,344196.8,306.7,5.0,
+  Ýlköðretim Matematik Öðretmenliði (Ýngilizce) (%50 Ýndirimli),,,,0.97,59497.38,389.07,8.0,
+  Ýngiliz Dili ve Edebiyatý (Ýngilizce) (Uzaktan Öðretim),,,,1.0,3530.0,487.95,1.0,
+  Ýslam Bilimleri  ,,,,1.0,938067.0,239.55,1.0,
+  Ýç Mimarlýk (ÝÖ),,,,1.0,160162.89,368.55,19.0,
+  Ýþ Saðlýðý ve Güvenliði,,,,1.0,379612.56,281.8,9.0,
+Acil Yardým ve Afet Yönetimi (Ýngilizce) (%50 Ýndirimli),,,,0.18,1258835.0,194.59,1.0,
+Aktüerya Bilimleri (Fakülte),,,,1.0,297431.0,297.22,5.0,
+Aktüerya Bilimleri (Fakülte) (Uzaktan Öðretim),,,,0.69,203185.0,323.52,1.0,
+Aktüerya Bilimleri (Yüksekokul) (KKTC Uyruklu),,,,0.75,277253.5,312.8,2.0,
+Aktüerya(Yüksekokul),,,,1.0,215753.0,288.3,1.0,
+Antrenörlük Eðitimi (%50 Ýndirimli),,,,1.0,418952.0,290.43,1.0,
+Antrenörlük Eðitimi (Fakülte) (Burslu),,,,0.93,267880.0,323.37,6.0,
+Astronomi ve Astrofizik,,,,1.0,235819.0,280.59,1.0,
+Avrupa Birliði Ýliþkileri(Ýngilizce)(%75 Ýndirimli),,,,1.0,60376.0,371.01,2.0,
+Bankacýlýk ve Finans(Fakülte)(Ýngilizce),,,,1.0,289256.15,294.14,20.0,
+Bankacýlýk ve Finans(Fakülte)(Ýngilizce)(Burslu),,,,1.0,167408.0,320.11,1.0,
+Bankacýlýk ve Finans(Yüksekokul)(Burslu),,,,1.0,336532.91,283.9,11.0,
+Bankacýlýk(Fakülte)(ÝÖ),,,,1.0,436129.5,266.08,2.0,
+Basýn ve Yayýn (Ücretli),,,,0.27,707668.0,259.66,1.0,
+Beden Eðitimi ve Spor Öðretmenliði (Yüksekokul) (Burslu),,,,0.19,199976.67,328.34,3.0,
+Bilgi Güvenliði Teknolojisi (Yüksekokul) (Ýngilizce) (%50 Ýndirimli),,,,0.52,399190.5,264.46,2.0,
+Bilgi Güvenliði Teknolojisi (Ýngilizce),,,,1.0,111826.33,377.9,3.0,
+Bilgisayar Teknolojisi ve Biliþim Sistemleri(Yüksekokul)(Ýngilizce)(%50 Ýndirimli),,,,1.0,178952.75,346.08,4.0,
+Bilgisayar ve Yazýlým Mühendisliði(Ýngilizce)(Burslu),,,,1.0,54460.0,413.59,1.0,
+Bilgisayar-Enformatik(Ýngilizce)(Burslu),,,,1.0,324408.0,254.38,1.0,
+Bilim Tarihi (%50 Ýndirimli),,,,0.43,1258969.0,221.88,1.0,
+Bilim Tarihi (Ücretli),,,,0.67,1416215.5,200.54,2.0,
+Biliþim Sistemleri ve Teknolojileri (Yüksekokul) (%50 Ýndirimli),,,,0.67,380247.5,262.74,2.0,
+Biliþim Sistemleri ve Teknolojileri (Yüksekokul) (Burslu),,,,1.0,333184.0,272.76,1.0,
+Biyomühendislik(Ýngilizce)(Burslu),,,,1.0,73914.0,388.66,1.0,
+Biyoteknoloji ve Moleküler Biyoloji,,,,1.0,326511.0,253.88,1.0,
+Canlandýrma Filmi Tasarým ve Yönetimi(KKTC Uyruklu),,,,1.0,143903.5,348.72,2.0,
+Cerrahpaþa Týp,,,,1.0,110.0,552.27,1.0,
+Cerrahpaþa Týp (Ýngilizce),,,,1.0,126.0,551.77,1.0,
+Deniz Bilimleri ve Teknolojisi Mühendisliði,,,,0.06,179758.0,336.62,1.0,
+Diþ Hekimliði Fakültesi,,,,1.0,48470.0,460.96,1.0,
+Diþ Hekimliði(UOLP-Saðlýk Bilimleri Üniversitesi)(T.C. Vatandaþlarý)(%50 Ýndirimli),,,,1.0,33339.0,444.93,1.0,
+Diþ Hekimliði(Ýngilizce)(KKTC Uyruklu),,,,1.0,46307.2,425.86,5.0,
+Ebelik (Yüksekokul) (Ücretli),,,,1.0,249366.2,324.0,5.0,
+Eczacýlýk(Ýngilizce)(T.C. Vatandaþlarý)(%50 Ýndirimli),,,,1.0,54595.33,413.89,3.0,
+Elektronik Ticaret ve Teknoloji Yönetimi(Ýngilizce)(%50 Ýndirimli),,,,1.0,173435.0,318.09,1.0,
+Endüstri ve Sistem Mühendisliði(Ýngilizce)(%25 Ýndirimli),,,,1.0,128101.0,336.46,1.0,
+Endüstri Ürünleri Tasarýmý(Fakülte)(Ýngilizce)(%50 Ýndirimli),,,,1.0,132772.5,357.17,16.0,
+Enerji Yönetimi (Ücretli),,,,0.75,1265587.0,221.42,1.0,
+Felsefe(ÝÖ),,,,1.0,204562.0,308.39,1.0,
+Film Tasarýmý,,,,1.0,4819.0,425.99,1.0,
+Finans ve Bankacýlýk (Fakülte) (Ýngilizce) (%50 Ýndirimli),,,,0.53,477527.33,270.52,6.0,
+Finans ve Bankacýlýk (Fakülte) (Ýngilizce) (Burslu),,,,0.73,355418.0,311.34,3.0,
+Finans ve Bankacýlýk (Yüksekokul) (ÝÖ),,,,0.95,466120.44,273.52,9.0,
+Fotoðraf (Ýngilizce) (Burslu),,,,1.0,1490.0,453.19,1.0,
+Gastronomi(Fakülte)(Burslu),,,,1.0,1630.0,450.9,2.0,
+Gastronomi(Yüksekokul)(Ücretli),,,,1.0,91401.25,376.52,4.0,
+Gayrimenkul Geliþtirme ve Yönetimi (Ýngilizce) (%50 Ýndirimli),,,,0.1,318750.0,260.01,1.0,
+Gerontoloji (Burslu),,,,0.97,370738.0,274.07,1.0,
+Gerontoloji(Fakülte),,,,1.0,79011.1,387.79,10.0,
+Giriþimcilik (Ücretli),,,,0.3,571530.0,251.55,1.0,
+Görsel Ýletiþim(Burslu),,,,1.0,23162.0,388.9,1.0,
+Gülhane Týp (Ankara),,,,1.0,5621.0,525.68,1.0,
+Gýda Teknolojisi (Fakülte),,,,1.0,354545.0,266.82,1.0,
+Gýda Teknolojisi (Yüksekokul),,,,0.3,480186.0,239.56,2.0,
+Halkbilimi (KKTC UYRUKLU),,,,1.0,634738.0,271.79,1.0,
+Halkla Ýliþkiler ve Reklamcýlýk(Yüksekokul)(Burslu),,,,1.0,48954.0,367.45,1.0,
+Halkla Ýliþkiler(Burslu),,,,1.0,106333.5,345.6,2.0,
+Havacýlýk Yönetimi(Fakülte)(Ýngilizce)(%50 Ýndirimli),,,,1.0,310041.3,292.38,10.0,
+Havacýlýk ve Uzay Mühendisliði(Ýngilizce)(Burslu),,,,1.0,22020.0,469.42,3.0,
+Hemþirelik (Besni),,,,1.0,154194.5,355.46,2.0,
+Hemþirelik ve Saðlýk Hizmetleri(%50 Ýndirimli),,,,1.0,199820.67,296.08,3.0,
+Kimya Mühendisliði ve Uygulamalý Kimya(Ýngilizce)(Burslu),,,,1.0,87288.0,373.3,1.0,
+Konaklama Ýþletmeciliði(Yüksekokul),,,,1.0,435139.5,263.54,4.0,
+Lojistik(Burslu),,,,1.0,312412.5,282.95,2.0,
+Matematik(%75 Ýndirimli),,,,1.0,168985.25,325.11,8.0,
+Matematik(Ýngilizce)(KKTC Uyruklu),,,,1.0,366376.75,266.36,4.0,
+Matematik-Bilgisayar(%50 Ýndirimli),,,,1.0,206365.0,298.07,2.0,
+Matematik-Bilgisayar(Burslu),,,,1.0,105862.67,368.71,3.0,
+Medya ve Ýletiþim(Fakülte)(Burslu),,,,1.0,41628.67,399.3,6.0,
+Medya ve Ýletiþim(Fakülte)(Ýngilizce)(%50 Ýndirimli),,,,1.0,129374.5,350.05,6.0,
+Mekatronik Sistemler Mühendisliði(Almanca),,,,1.0,29173.0,453.15,2.0,
+Meteoroloji Mühendisliði (KKTC Uyruklu),,,,0.5,150914.0,307.14,1.0,
+Moda ve Tekstil Tasarýmý(%75 Ýndirimli),,,,1.0,252282.0,297.64,3.0,
+Muhasebe ve Finans Yönetimi (Ýngilizce) (Ücretli),,,,0.1,1799834.0,178.99,1.0,
+Muhasebe(Fakülte)(KKTC Uyruklu),,,,1.0,715792.0,230.41,1.0,
+Mütercim-Tercümanlýk(Fakülte)(Arapça)(Burslu),,,,1.0,13067.19,420.97,16.0,
+Mütercim-Tercümanlýk(Fakülte)(Ýng-Fra-Türkçe)(%50 Ýndirimli),,,,1.0,8573.67,441.74,3.0,
+Mütercim-Tercümanlýk(Fakülte)(Ýngilizce)(T.C. Vatandaþlarý)(Burslu),,,,1.0,12266.34,420.31,41.0,
+"Mütercim-Tercümanlýk(Fakülte)(Ýngilizce, Fransýzca, Türkçe)",,,,1.0,15610.86,404.82,7.0,
+Mütercim-Tercümanlýk(Yüksekokul)(Arapça)(Burslu),,,,1.0,10202.67,422.69,3.0,
+Mütercim-Tercümanlýk(Yüksekokul)(Ýngilizce)(%50 Ýndirimli),,,,1.0,11524.61,424.02,31.0,
+Müzik,,,,1.0,28374.0,346.71,1.0,
+Odyoloji (Bozkýr),,,,1.0,272255.0,297.87,1.0,
+Odyoloji (Fakülte) (Ankara),,,,1.0,110396.55,396.14,20.0,
+Odyoloji (Fakülte) (Ücretli),,,,1.0,465943.5,242.85,2.0,
+Odyoloji(Fakülte)(Ankara),,,,1.0,59518.0,406.79,1.0,
+Ortez-Protez(Fakülte)(%75 Ýndirimli),,,,1.0,319376.0,255.67,1.0,
+Ortez-Protez(Fakülte)(Burslu),,,,1.0,142517.67,326.77,3.0,
+Pazarlama (Fakülte) (Ýngilizce) (%50 Ýndirimli),,,,0.9,232874.0,340.17,2.0,
+Polonya Dili ve Kültürü(Lehçe),,,,1.0,16921.0,391.39,1.0,
+Psikolojik Danýþmanlýk ve Rehberlik Öðretmenliði (Ücretli),,,,0.2,182726.0,290.19,1.0,
+Reklam Tasarýmý ve Ýletiþimi (Ýngilizce) (Ücretli),,,,1.0,794374.0,251.65,1.0,
+Reklamcýlýk(Ýngilizce)(%75 Ýndirimli),,,,1.0,176466.74,336.5,19.0,
+Rekreasyon (Burslu),,,,1.0,467342.0,238.27,1.0,
+Rekreasyon (Fakülte) (Burslu),,,,0.78,546732.67,267.6,3.0,
+Restorasyon ve Konservasyon(Burslu),,,,1.0,127052.0,335.55,1.0,
+Robotik ve Otonom Sistemleri Mühendisliði,,,,1.0,1956.0,531.99,1.0,
+Sanat Yönetimi,,,,1.0,12350.0,404.51,1.0,
+Sermaye Piyasalarý ve Portföy Yönetimi(Burslu),,,,1.0,203698.0,308.64,1.0,
+Sermaye Piyasasý (Yüksekokul),,,,1.0,160949.0,338.84,1.0,
+Sermaye Piyasasý (Yüksekokul) (KKTC Uyruklu),,,,1.0,755400.0,230.63,1.0,
+Sigortacýlýk (Fakülte) (Burslu),,,,1.0,266971.0,308.57,2.0,
+Sigortacýlýk (Yüksekokul),,,,0.92,384370.33,288.9,3.0,
+Sigortacýlýk ve Risk Yönetimi(Fakülte)(%75 Ýndirimli),,,,1.0,210988.5,312.98,2.0,
+Siyaset Bilimi,,,,1.0,281578.0,289.12,1.0,
+Siyaset Bilimi(Ýngilizce)(%75 Ýndirimli),,,,1.0,287941.5,304.0,2.0,
+Sosyal Hizmet (Fakülte) (Uzaktan Öðretim),,,,1.0,48082.0,391.71,1.0,
+Sosyal Hizmet (Fakülte) (Ýngilizce) (Burslu),,,,0.29,460626.5,257.54,2.0,
+Sosyal Hizmet(Fakülte)(%75 Ýndirimli),,,,1.0,205368.45,307.31,20.0,
+Sosyal Hizmet(Fakülte)(KKTC Uyruklu),,,,1.0,129456.3,365.83,10.0,
+Sosyal Hizmet(Yüksekokul)(%75 Ýndirimli),,,,1.0,431383.0,263.56,2.0,
+Sosyoloji(Ýngilizce)(Ücretli),,,,1.0,241799.33,347.06,3.0,
+Spor Bilimleri,,,,1.0,166793.0,320.33,1.0,
+Sýnýf Öðretmenliði(Ýngilizce)(Burslu),,,,1.0,39442.0,386.69,1.0,
+Tarih(Ýngilizce)(Burslu),,,,1.0,1107.89,471.41,9.0,
+Teknoloji ve Bilgi Yönetimi(%75 Ýndirimli),,,,1.0,323996.0,280.46,1.0,
+Turizm ve Otel Ýþletmeciliði(Yüksekokul)(Burslu),,,,1.0,281751.0,289.08,1.0,
+Turizm ve Otelcilik(%75 Ýndirimli),,,,1.0,253714.8,305.13,5.0,
+Turizm ve Otelcilik(Burslu),,,,1.0,299918.0,285.24,1.0,
+Turizm Ýþletmeciliði ve Otelcilik,,,,1.0,314148.0,282.39,2.0,
+Türk Dili ve Edebiyatý (UOLP-Kosova Priþtine Üniversitesi) (UOLP) (Ücretli),,,,0.1,274711.0,287.5,1.0,
+Týp Fakültesi (Ücretli),,,,0.45,30386.0,482.89,1.0,
+Týp(KKTC Uyruklu),,,,1.0,24716.1,460.47,10.0,
+Týp(Ýngilizce)(UOLP-Marmara Üniversitesi)(T.C. Vatandaþlarý)(%50 Ýndirimli),,,,1.0,23081.0,462.79,2.0,
+Týp(Ýstanbul)(Erkek)(Milli Savunma Bakanlýðý Adýna),,,,1.0,20153.0,467.78,1.0,
+Ulaþtýrma ve Lojistik(Fakülte),,,,1.0,206453.0,317.63,2.0,
+Uluslararasý Lojistik Yönetimi(Burslu),,,,1.0,185798.0,314.08,1.0,
+Uluslararasý Lojistik ve Taþýmacýlýk(Fakülte)(Ýngilizce)(Burslu),,,,1.0,218725.25,311.35,12.0,
+Uluslararasý Lojistik ve Taþýmacýlýk(Yüksekokul)(Ýngilizce)(%50 Ýndirimli),,,,1.0,256199.25,306.91,4.0,
+Uluslararasý Ýþletme Yönetimi (Ýngilizce) (Ücretli),,,,0.19,1560362.0,198.21,2.0,
+Uçak Bakým ve Onarým (Fakülte),,,,1.0,94544.0,409.01,2.0,
+Uçak Bakým ve Onarým (KKTC UYRUKLU),,,,1.0,463275.0,258.64,1.0,
+Uçak Elektrik-Elektronik(Fakülte)(ÝÖ),,,,1.0,122396.25,348.9,4.0,
+Uçak Elektrik-Elektronik(Yüksekokul)(Ýngilizce)(%50 Ýndirimli),,,,1.0,177682.8,313.45,5.0,
+Veri Bilimi ve Analitiði (Ýngilizce),,,,1.0,115581.29,389.24,7.0,
+Veterinerlik(%75 Ýndirimli),,,,1.0,171460.0,308.86,1.0,
+Veterinerlik(Burslu),,,,1.0,121257.0,341.7,1.0,
+Yapay Zeka ve Makine Öðrenmesi,,,,1.0,58655.2,427.7,5.0,
+Yazýlým Geliþtirme,,,,1.0,86854.0,396.35,2.0,
+Yazýlým Mühendisliði(%75 Ýndirimli),,,,1.0,102926.3,372.33,10.0,
+Yeni Medya (Fakülte) (Burslu),,,,1.0,852.0,469.29,1.0,
+Yeni Medya ve Gazetecilik(Fakülte)(Burslu),,,,1.0,211150.33,351.25,3.0,
+Yeni Medya ve Gazetecilik(Fakülte)(Ýngilizce)(T.C. Vatandaþlarý)(Burslu),,,,1.0,312730.0,292.04,1.0,
+Yeni Medya ve Gazetecilik(Yüksekokul)(%75 Ýndirimli),,,,1.0,310129.0,292.49,1.0,
+Yeni Medya ve Gazetecilik(Yüksekokul)(Burslu),,,,1.0,82267.5,350.79,2.0,
+Yeni Medya(Fakülte)(Burslu),,,,1.0,90411.12,369.04,8.0,
+Çeviribilim(Almanca)(ÝÖ),,,,1.0,30063.0,348.0,2.0,
+Ýklim Bilimi ve Meteoroloji Mühendisliði,,,,1.0,39074.0,449.33,1.0,
+Ýlahiyat(Arapça)(T.C. Vatandaþlarý)(Burslu),,,,1.0,334478.0,288.32,1.0,
+Ýletiþim Tasarýmý ve Yeni Medya(%75 Ýndirimli),,,,1.0,119416.5,341.0,2.0,
+Ýngiliz Dili ve Karþýlaþtýrmalý Edebiyat(Ýngilizce)(%50 Ýndirimli),,,,1.0,4764.0,454.56,3.0,
+Ýngilizce Mütercim ve Tercümanlýk (Yüksekokul) (%50 Ýndirimli),,,,0.97,15917.62,407.99,34.0,
+Ýnsan Kaynaklarý Yönetimi (KKTC Uyruklu),,,,1.0,1108169.0,232.67,1.0,
+Ýnsan Kaynaklarý Yönetimi (Yüksekokul) (Ýngilizce) (%50 Ýndirimli),,,,0.8,426698.0,272.99,1.0,
+Ýnsan ve Toplum Bilimleri(Ýngilizce)(Burslu),,,,1.0,153815.0,324.97,1.0,
+Ýnþaat Mühendisliði(Ýngilizce)(UOLP-Azerbaycan Mimarlýk ve Ýnþaat Üniversitesi)(Ücretli),,,,1.0,71541.0,391.53,1.0,
+Ýslam Ekonomisi ve Finans(%75 Ýndirimli),,,,1.0,355811.0,274.68,1.0,
+Ýslam Ekonomisi ve Finans(Ýngilizce)(Burslu ),,,,1.0,104016.67,346.38,3.0,
+Ýstanbul Týp,,,,1.0,1432.0,540.29,1.0,
+Ýstanbul Týp (Ýngilizce),,,,1.0,588.0,545.86,1.0,
+Ýç Mimarlýk(Ýngilizce)(Burslu),,,,1.0,133763.6,347.44,10.0,
+Ýþletme (Ýngilizce) (Uzaktan Öðretim),,,,1.0,44922.0,393.75,1.0,
+Ýþletme Bilgi Yönetimi(Burslu),,,,1.0,339242.0,277.64,1.0,
+Ýþletme Enformatiði(%75 Ýndirimli),,,,1.0,205094.0,308.25,1.0,
+Ýþletme Enformatiði(Almanca),,,,1.0,84125.33,363.41,3.0,

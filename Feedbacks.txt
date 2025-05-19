@@ -1,0 +1,4 @@
+1-> EA - SAY - SÖZ kısmı eklenebilir. Puan kısmı yerine. TAMAMLANDI
+2-> Öğrenci sıralamasını girince yerleşebileceği yerleri otomatik gösteren bir mekanizma yapılmalı. Üniversite ve bölüm seçmesine gerek kalmasın başka bir alternatif daha olsun.TAMAMLANDI
+3-> Sitenin layoutu ve renk paleti değişebilir.
+4-> 2024 verilerini test edip doğrulama yaptığımız algoritmanın sonuçlarını bir yere koyabiliriz. Bu algoritma ne kadar güvenilir tarzında göstermek için. TAMAMLANDI

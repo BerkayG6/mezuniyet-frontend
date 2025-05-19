@@ -1,0 +1,970 @@
+11;Seyhan
+21;Ceyhan
+31;Feke
+41;Karaisalý
+51;Karataþ
+61;Kozan
+71;Pozantý
+81;Saimbeyli
+91;Tufanbeyli
+101;Yumurtalýk
+111;Yüreðir
+121;Aladað
+131;Ýmamoðlu
+141;Sarýçam
+151;Çukurova
+162;Adýyaman Merkez
+172;Besni
+182;Çelikhan
+192;Gerger
+202;Gölbaþý / Adýyaman
+212;Kahta
+222;Samsat
+232;Sincik
+242;Tut
+253;Afyonkarahisar Merkez
+263;Bolvadin
+273;Çay
+283;Dazkýrý
+293;Dinar
+303;Emirdað
+313;Ýhsaniye
+323;Sandýklý
+333;Sinanpaþa
+343;Sultandaðý
+353;Þuhut
+363;Baþmakçý
+373;Bayat / Afyonkarahisar
+383;Ýscehisar
+393;Çobanlar
+403;Evciler
+413;Hocalar
+423;Kýzýlören
+434;Aðrý Merkez
+444;Diyadin
+454;Doðubayazýt
+464;Eleþkirt
+474;Hamur
+484;Patnos
+494;Taþlýçay
+504;Tutak
+515;Amasya Merkez
+525;Göynücek
+535;Gümüþhacýköy
+545;Merzifon
+555;Suluova
+565;Taþova
+575;Hamamözü
+586;Altýndað
+596;Ayaþ
+606;Bala
+616;Beypazarý
+626;Çamlýdere
+636;Çankaya
+646;Çubuk
+656;Elmadað
+666;Güdül
+676;Haymana
+686;Kalecik
+696;Kýzýlcahamam
+706;Nallýhan
+716;Polatlý
+726;Þereflikoçhisar
+736;Yenimahalle
+746;Gölbaþý / Ankara
+756;Keçiören
+766;Mamak
+776;Sincan
+786;Kazan
+796;Akyurt
+806;Etimesgut
+816;Evren
+826;Pursaklar
+837;Akseki
+847;Alanya
+857;Elmalý
+867;Finike
+877;Gazipaþa
+887;Gündoðmuþ
+897;Kaþ
+907;Korkuteli
+917;Kumluca
+927;Manavgat
+937;Serik
+947;Demre
+957;Ýbradý
+967;Kemer / Antalya
+977;Aksu / Antalya
+987;Döþemealtý
+997;Kepez
+1007;Konyaaltý
+1017;Muratpaþa
+1028;Ardanuç
+1038;Arhavi
+1048;Artvin Merkez
+1058;Borçka
+1068;Hopa
+1078;Þavþat
+1088;Yusufeli
+1098;Murgul
+1109;Bozdoðan
+1119;Çine
+1129;Germencik
+1139;Karacasu
+1149;Koçarlý
+1159;Kuþadasý
+1169;Kuyucak
+1179;Nazilli
+1189;Söke
+1199;Sultanhisar
+1209;Yenipazar / Aydýn
+1219;Buharkent
+1229;Ýncirliova
+1239;Karpuzlu
+1249;Köþk
+1259;Didim
+1269;Efeler
+12710;Ayvalýk
+12810;Balya
+12910;Bandýrma
+13010;Bigadiç
+13110;Burhaniye
+13210;Dursunbey
+13310;Edremit / Balýkesir
+13410;Erdek
+13510;Gönen / Balýkesir
+13610;Havran
+13710;Ývrindi
+13810;Kepsut
+13910;Manyas
+14010;Savaþtepe
+14110;Sýndýrgý
+14210;Susurluk
+14310;Marmara
+14410;Gömeç
+14510;Altýeylül
+14610;Karesi
+14711;Bilecik Merkez
+14811;Bozüyük
+14911;Gölpazarý
+15011;Osmaneli
+15111;Pazaryeri
+15211;Söðüt
+15311;Yenipazar / Bilecik
+15411;Ýnhisar
+15512;Bingöl Merkez
+15612;Genç
+15712;Karlýova
+15812;Kiðý
+15912;Solhan
+16012;Adaklý
+16112;Yayladere
+16212;Yedisu
+16313;Adilcevaz
+16413;Ahlat
+16513;Bitlis Merkez
+16613;Hizan
+16713;Mutki
+16813;Tatvan
+16913;Güroymak
+17014;Bolu Merkez
+17114;Gerede
+17214;Göynük
+17314;Kýbrýscýk
+17414;Mengen
+17514;Mudurnu
+17614;Seben
+17714;Dörtdivan
+17814;Yeniçaða
+17915;Aðlasun
+18015;Bucak
+18115;Burdur Merkez
+18215;Gölhisar
+18315;Tefenni
+18415;Yeþilova
+18515;Karamanlý
+18615;Kemer / Burdur
+18715;Altýnyayla / Burdur
+18815;Çavdýr
+18915;Çeltikçi
+19016;Gemlik
+19116;Ýnegöl
+19216;Ýznik
+19316;Karacabey
+19416;Keles
+19516;Mudanya
+19616;Mustafakemalpaþa
+19716;Orhaneli
+19816;Orhangazi
+19916;Yeniþehir / Bursa
+20016;Büyükorhan
+20116;Harmancýk
+20216;Nilüfer
+20316;Osmangazi
+20416;Yýldýrým
+20516;Gürsu
+20616;Kestel
+20717;Ayvacýk / Çanakkale
+20817;Bayramiç
+20917;Biga
+21017;Bozcaada
+21117;Çan
+21217;Çanakkale Merkez
+21317;Eceabat
+21417;Ezine
+21517;Gelibolu
+21617;Gökçeada
+21717;Lapseki
+21817;Yenice / Çanakkale
+21918;Çankýrý Merkez
+22018;Çerkeþ
+22118;Eldivan
+22218;Ilgaz
+22318;Kurþunlu
+22418;Orta
+22518;Þabanözü
+22618;Yapraklý
+22718;Atkaracalar
+22818;Kýzýlýrmak
+22918;Bayramören
+23018;Korgun
+23119;Alaca
+23219;Bayat / Çorum
+23319;Çorum Merkez
+23419;Ýskilip
+23519;Kargý
+23619;Mecitözü
+23719;Ortaköy / Çorum
+23819;Osmancýk
+23919;Sungurlu
+24019;Boðazkale
+24119;Uðurludað
+24219;Dodurga
+24319;Laçin
+24419;Oðuzlar
+24520;Acýpayam
+24620;Buldan
+24720;Çal
+24820;Çameli
+24920;Çardak
+25020;Çivril
+25120;Güney
+25220;Kale / Denizli
+25320;Sarayköy
+25420;Tavas
+25520;Babadað
+25620;Bekilli
+25720;Honaz
+25820;Serinhisar
+25920;Pamukkale
+26020;Baklan
+26120;Beyaðaç
+26220;Bozkurt / Denizli
+26320;Merkezefendi
+26421;Bismil
+26521;Çermik
+26621;Çýnar
+26721;Çüngüþ
+26821;Dicle
+26921;Ergani
+27021;Hani
+27121;Hazro
+27221;Kulp
+27321;Lice
+27421;Silvan
+27521;Eðil
+27621;Kocaköy
+27721;Baðlar
+27821;Kayapýnar
+27921;Sur
+28021;Yeniþehir / Diyarbakýr
+28122;Edirne Merkez
+28222;Enez
+28322;Havsa
+28422;Ýpsala
+28522;Keþan
+28622;Lalapaþa
+28722;Meriç
+28822;Uzunköprü
+28922;Süloðlu
+29023;Aðýn
+29123;Baskil
+29223;Elazýð Merkez
+29323;Karakoçan
+29423;Keban
+29523;Maden
+29623;Palu
+29723;Sivrice
+29823;Arýcak
+29923;Kovancýlar
+30023;Alacakaya
+30124;Çayýrlý
+30224;Erzincan Merkez
+30324;Ýliç
+30424;Kemah
+30524;Kemaliye
+30624;Refahiye
+30724;Tercan
+30824;Üzümlü
+30924;Otlukbeli
+31025;Aþkale
+31125;Çat
+31225;Hýnýs
+31325;Horasan
+31425;Ýspir
+31525;Karayazý
+31625;Narman
+31725;Oltu
+31825;Olur
+31925;Pasinler
+32025;Þenkaya
+32125;Tekman
+32225;Tortum
+32325;Karaçoban
+32425;Uzundere
+32525;Pazaryolu
+32625;Aziziye
+32725;Köprüköy
+32825;Palandöken
+32925;Yakutiye
+33026;Çifteler
+33126;Mahmudiye
+33226;Mihalýççýk
+33326;Sarýcakaya
+33426;Seyitgazi
+33526;Sivrihisar
+33626;Alpu
+33726;Beylikova
+33826;Ýnönü
+33926;Günyüzü
+34026;Han
+34126;Mihalgazi
+34226;Odunpazarý
+34326;Tepebaþý
+34427;Araban
+34527;Ýslahiye
+34627;Nizip
+34727;Oðuzeli
+34827;Yavuzeli
+34927;Þahinbey
+35027;Þehitkamil
+35127;Karkamýþ
+35227;Nurdaðý
+35328;Alucra
+35428;Bulancak
+35528;Dereli
+35628;Espiye
+35728;Eynesil
+35828;Giresun Merkez
+35928;Görele
+36028;Keþap
+36128;Þebinkarahisar
+36228;Tirebolu
+36328;Piraziz
+36428;Yaðlýdere
+36528;Çamoluk
+36628;Çanakçý
+36728;Doðankent
+36828;Güce
+36929;Gümüþhane Merkez
+37029;Kelkit
+37129;Þiran
+37229;Torul
+37329;Köse
+37429;Kürtün
+37530;Çukurca
+37630;Hakkari Merkez
+37730;Þemdinli
+37830;Yüksekova
+37931;Altýnözü
+38031;Dörtyol
+38131;Hassa
+38231;Ýskenderun
+38331;Kýrýkhan
+38431;Reyhanlý
+38531;Samandað
+38631;Yayladaðý
+38731;Erzin
+38831;Belen
+38931;Kumlu
+39031;Antakya
+39131;Arsuz
+39231;Defne
+39331;Payas
+39432;Atabey
+39532;Eðirdir
+39632;Gelendost
+39732;Isparta Merkez
+39832;Keçiborlu
+39932;Senirkent
+40032;Sütçüler
+40132;Þarkikaraaðaç
+40232;Uluborlu
+40332;Yalvaç
+40432;Aksu / Isparta
+40532;Gönen / Isparta
+40632;Yeniþarbademli
+40733;Anamur
+40833;Erdemli
+40933;Gülnar
+41033;Mut
+41133;Silifke
+41233;Tarsus
+41333;Aydýncýk / Mersin
+41433;Bozyazý
+41533;Çamlýyayla
+41633;Akdeniz
+41733;Mezitli
+41833;Toroslar
+41933;Yeniþehir / Mersin
+42034;Adalar
+42134;Bakýrköy
+42234;Beþiktaþ
+42334;Beykoz
+42434;Beyoðlu
+42534;Çatalca
+42634;Eyüp
+42734;Fatih
+42834;Gaziosmanpaþa
+42934;Kadýköy
+43034;Kartal
+43134;Sarýyer
+43234;Silivri
+43334;Þile
+43434;Þiþli
+43534;Üsküdar
+43634;Zeytinburnu
+43734;Büyükçekmece
+43834;Kaðýthane
+43934;Küçükçekmece
+44034;Pendik
+44134;Ümraniye
+44234;Bayrampaþa
+44334;Avcýlar
+44434;Baðcýlar
+44534;Bahçelievler
+44634;Güngören
+44734;Maltepe
+44834;Sultanbeyli
+44934;Tuzla
+45034;Esenler
+45134;Arnavutköy
+45234;Ataþehir
+45334;Baþakþehir
+45434;Beylikdüzü
+45534;Çekmeköy
+45634;Esenyurt
+45734;Sancaktepe
+45834;Sultangazi
+45935;Aliaða
+46035;Bayýndýr
+46135;Bergama
+46235;Bornova
+46335;Çeþme
+46435;Dikili
+46535;Foça
+46635;Karaburun
+46735;Karþýyaka
+46835;Kemalpaþa / Ýzmir
+46935;Kýnýk
+47035;Kiraz
+47135;Menemen
+47235;Ödemiþ
+47335;Seferihisar
+47435;Selçuk
+47535;Tire
+47635;Torbalý
+47735;Urla
+47835;Beydað
+47935;Buca
+48035;Konak
+48135;Menderes
+48235;Balçova
+48335;Çiðli
+48435;Gaziemir
+48535;Narlýdere
+48635;Güzelbahçe
+48735;Bayraklý
+48835;Karabaðlar
+48936;Arpaçay
+49036;Digor
+49136;Kaðýzman
+49236;Kars Merkez
+49336;Sarýkamýþ
+49436;Selim
+49536;Susuz
+49636;Akyaka
+49737;Abana
+49837;Araç
+49937;Azdavay
+50037;Bozkurt / Kastamonu
+50137;Cide
+50237;Çatalzeytin
+50337;Daday
+50437;Devrekani
+50537;Ýnebolu
+50637;Kastamonu Merkez
+50737;Küre
+50837;Taþköprü
+50937;Tosya
+51037;Ýhsangazi
+51137;Pýnarbaþý / Kastamonu
+51237;Þenpazar
+51337;Aðlý
+51437;Doðanyurt
+51537;Hanönü
+51637;Seydiler
+51738;Bünyan
+51838;Develi
+51938;Felahiye
+52038;Ýncesu
+52138;Pýnarbaþý / Kayseri
+52238;Sarýoðlan
+52338;Sarýz
+52438;Tomarza
+52538;Yahyalý
+52638;Yeþilhisar
+52738;Akkýþla
+52838;Talas
+52938;Kocasinan
+53038;Melikgazi
+53138;Hacýlar
+53238;Özvatan
+53339;Babaeski
+53439;Demirköy
+53539;Kýrklareli Merkez
+53639;Kofçaz
+53739;Lüleburgaz
+53839;Pehlivanköy
+53939;Pýnarhisar
+54039;Vize
+54140;Çiçekdaðý
+54240;Kaman
+54340;Kýrþehir Merkez
+54440;Mucur
+54540;Akpýnar
+54640;Akçakent
+54740;Boztepe
+54841;Gebze
+54941;Gölcük
+55041;Kandýra
+55141;Karamürsel
+55241;Körfez
+55341;Derince
+55441;Baþiskele
+55541;Çayýrova
+55641;Darýca
+55741;Dilovasý
+55841;Ýzmit
+55941;Kartepe
+56042;Akþehir
+56142;Beyþehir
+56242;Bozkýr
+56342;Cihanbeyli
+56442;Çumra
+56542;Doðanhisar
+56642;Ereðli / Konya
+56742;Hadim
+56842;Ilgýn
+56942;Kadýnhaný
+57042;Karapýnar
+57142;Kulu
+57242;Sarayönü
+57342;Seydiþehir
+57442;Yunak
+57542;Akören
+57642;Altýnekin
+57742;Derebucak
+57842;Hüyük
+57942;Karatay
+58042;Meram
+58142;Selçuklu
+58242;Taþkent
+58342;Ahýrlý
+58442;Çeltik
+58542;Derbent
+58642;Emirgazi
+58742;Güneysýnýr
+58842;Halkapýnar
+58942;Tuzlukçu
+59042;Yalýhüyük
+59143;Altýntaþ
+59243;Domaniç
+59343;Emet
+59443;Gediz
+59543;Kütahya Merkez
+59643;Simav
+59743;Tavþanlý
+59843;Aslanapa
+59943;Dumlupýnar
+60043;Hisarcýk
+60143;Þaphane
+60243;Çavdarhisar
+60343;Pazarlar
+60444;Akçadað
+60544;Arapgir
+60644;Arguvan
+60744;Darende
+60844;Doðanþehir
+60944;Hekimhan
+61044;Pütürge
+61144;Yeþilyurt / Malatya
+61244;Battalgazi
+61344;Doðanyol
+61444;Kale / Malatya
+61544;Kuluncak
+61644;Yazýhan
+61745;Akhisar
+61845;Alaþehir
+61945;Demirci
+62045;Gördes
+62145;Kýrkaðaç
+62245;Kula
+62345;Salihli
+62445;Sarýgöl
+62545;Saruhanlý
+62645;Selendi
+62745;Soma
+62845;Turgutlu
+62945;Ahmetli
+63045;Gölmarmara
+63145;Köprübaþý / Manisa
+63245;Þehzadeler
+63345;Yunusemre
+63446;Afþin
+63546;Andýrýn
+63646;Elbistan
+63746;Göksun
+63846;Pazarcýk
+63946;Türkoðlu
+64046;Çaðlayancerit
+64146;Ekinözü
+64246;Nurhak
+64346;Dulkadiroðlu
+64446;Onikiþubat
+64547;Derik
+64647;Kýzýltepe
+64747;Mazýdaðý
+64847;Midyat
+64947;Nusaybin
+65047;Ömerli
+65147;Savur
+65247;Dargeçit
+65347;Yeþilli
+65447;Artuklu
+65548;Bodrum
+65648;Datça
+65748;Fethiye
+65848;Köyceðiz
+65948;Marmaris
+66048;Milas
+66148;Ula
+66248;Yataðan
+66348;Dalaman
+66448;Ortaca
+66548;Kavaklýdere
+66648;Menteþe
+66748;Seydikemer
+66849;Bulanýk
+66949;Malazgirt
+67049;Muþ Merkez
+67149;Varto
+67249;Hasköy
+67349;Korkut
+67450;Avanos
+67550;Derinkuyu
+67650;Gülþehir
+67750;Hacýbektaþ
+67850;Kozaklý
+67950;Nevþehir Merkez
+68050;Ürgüp
+68150;Acýgöl
+68251;Bor
+68351;Çamardý
+68451;Niðde Merkez
+68551;Ulukýþla
+68651;Altunhisar
+68751;Çiftlik
+68852;Akkuþ
+68952;Aybastý
+69052;Fatsa
+69152;Gölköy
+69252;Korgan
+69352;Kumru
+69452;Mesudiye
+69552;Perþembe
+69652;Ulubey / Ordu
+69752;Ünye
+69852;Gülyalý
+69952;Gürgentepe
+70052;Çamaþ
+70152;Çatalpýnar
+70252;Çaybaþý
+70352;Ýkizce
+70452;Kabadüz
+70552;Kabataþ
+70652;Altýnordu
+70753;Ardeþen
+70853;Çamlýhemþin
+70953;Çayeli
+71053;Fýndýklý
+71153;Ýkizdere
+71253;Kalkandere
+71353;Pazar / Rize
+71453;Rize Merkez
+71553;Güneysu
+71653;Derepazarý
+71753;Hemþin
+71853;Ýyidere
+71954;Akyazý
+72054;Geyve
+72154;Hendek
+72254;Karasu
+72354;Kaynarca
+72454;Sapanca
+72554;Kocaali
+72654;Pamukova
+72754;Taraklý
+72854;Ferizli
+72954;Karapürçek
+73054;Söðütlü
+73154;Adapazarý
+73254;Arifiye
+73354;Erenler
+73454;Serdivan
+73555;Alaçam
+73655;Bafra
+73755;Çarþamba
+73855;Havza
+73955;Kavak
+74055;Ladik
+74155;Terme
+74255;Vezirköprü
+74355;Asarcýk
+74455;19.May
+74555;Salýpazarý
+74655;Tekkeköy
+74755;Ayvacýk / Samsun
+74855;Yakakent
+74955;Atakum
+75055;Canik
+75155;Ýlkadým
+75256;Baykan
+75356;Eruh
+75456;Kurtalan
+75556;Pervari
+75656;Siirt Merkez
+75756;Þirvan
+75856;Tillo
+75957;Ayancýk
+76057;Boyabat
+76157;Duraðan
+76257;Erfelek
+76357;Gerze
+76457;Sinop Merkez
+76557;Türkeli
+76657;Dikmen
+76757;Saraydüzü
+76858;Divriði
+76958;Gemerek
+77058;Gürün
+77158;Hafik
+77258;Ýmranlý
+77358;Kangal
+77458;Koyulhisar
+77558;Sivas Merkez
+77658;Suþehri
+77758;Þarkýþla
+77858;Yýldýzeli
+77958;Zara
+78058;Akýncýlar
+78158;Altýnyayla / Sivas
+78258;Doðanþar
+78358;Gölova
+78458;Ulaþ
+78559;Çerkezköy
+78659;Çorlu
+78759;Hayrabolu
+78859;Malkara
+78959;Muratlý
+79059;Saray / Tekirdað
+79159;Þarköy
+79259;Marmaraereðlisi
+79359;Ergene
+79459;Kapaklý
+79559;Süleymanpaþa
+79660;Almus
+79760;Artova
+79860;Erbaa
+79960;Niksar
+80060;Reþadiye
+80160;Tokat Merkez
+80260;Turhal
+80360;Zile
+80460;Pazar / Tokat
+80560;Yeþilyurt / Tokat
+80660;Baþçiftlik
+80760;Sulusaray
+80861;Akçaabat
+80961;Araklý
+81061;Arsin
+81161;Çaykara
+81261;Maçka
+81361;Of
+81461;Sürmene
+81561;Tonya
+81661;Vakfýkebir
+81761;Yomra
+81861;Beþikdüzü
+81961;Þalpazarý
+82061;Çarþýbaþý
+82161;Dernekpazarý
+82261;Düzköy
+82361;Hayrat
+82461;Köprübaþý / Trabzon
+82561;Ortahisar
+82662;Çemiþgezek
+82762;Hozat
+82862;Mazgirt
+82962;Nazýmiye
+83062;Ovacýk / Tunceli
+83162;Pertek
+83262;Pülümür
+83362;Tunceli Merkez
+83463;Akçakale
+83563;Birecik
+83663;Bozova
+83763;Ceylanpýnar
+83863;Halfeti
+83963;Hilvan
+84063;Siverek
+84163;Suruç
+84263;Viranþehir
+84363;Harran
+84463;Eyyübiye
+84563;Haliliye
+84663;Karaköprü
+84764;Banaz
+84864;Eþme
+84964;Karahallý
+85064;Sivaslý
+85164;Ulubey / Uþak
+85264;Uþak Merkez
+85365;Baþkale
+85465;Çatak
+85565;Erciþ
+85665;Gevaþ
+85765;Gürpýnar
+85865;Muradiye
+85965;Özalp
+86065;Bahçesaray
+86165;Çaldýran
+86265;Edremit / Van
+86365;Saray / Van
+86465;Ýpekyolu
+86565;Tuþba
+86666;Akdaðmadeni
+86766;Boðazlýyan
+86866;Çayýralan
+86966;Çekerek
+87066;Sarýkaya
+87166;Sorgun
+87266;Þefaatli
+87366;Yerköy
+87466;Yozgat Merkez
+87566;Aydýncýk / Yozgat
+87666;Çandýr
+87766;Kadýþehri
+87866;Saraykent
+87966;Yenifakýlý
+88067;Çaycuma
+88167;Devrek
+88267;Ereðli / Zonguldak
+88367;Zonguldak Merkez
+88467;Alaplý
+88567;Gökçebey
+88667;Kilimli
+88767;Kozlu
+88868;Aksaray Merkez
+88968;Ortaköy / Aksaray
+89068;Aðaçören
+89168;Güzelyurt
+89268;Sarýyahþi
+89368;Eskil
+89468;Gülaðaç
+89569;Bayburt Merkez
+89669;Aydýntepe
+89769;Demirözü
+89870;Ermenek
+89970;Karaman Merkez
+90070;Ayrancý
+90170;Kazýmkarabekir
+90270;Baþyayla
+90370;Sarýveliler
+90471;Delice
+90571;Keskin
+90671;Kýrýkkale Merkez
+90771;Sulakyurt
+90871;Bahþili
+90971;Balýþeyh
+91071;Çelebi
+91171;Karakeçili
+91271;Yahþihan
+91372;Batman Merkez
+91472;Beþiri
+91572;Gercüþ
+91672;Kozluk
+91772;Sason
+91872;Hasankeyf
+91973;Beytüþþebap
+92073;Cizre
+92173;Ýdil
+92273;Silopi
+92373;Þýrnak Merkez
+92473;Uludere
+92573;Güçlükonak
+92674;Bartýn Merkez
+92774;Kurucaþile
+92874;Ulus
+92974;Amasra
+93075;Ardahan Merkez
+93175;Çýldýr
+93275;Göle
+93375;Hanak
+93475;Posof
+93575;Damal
+93676;Aralýk
+93776;Iðdýr Merkez
+93876;Tuzluca
+93976;Karakoyunlu
+94077;Yalova Merkez
+94177;Altýnova
+94277;Armutlu
+94377;Çýnarcýk
+94477;Çiftlikköy
+94577;Termal
+94678;Eflani
+94778;Eskipazar
+94878;Karabük Merkez
+94978;Ovacýk / Karabük
+95078;Safranbolu
+95178;Yenice / Karabük
+95279;Kilis Merkez
+95379;Elbeyli
+95479;Musabeyli
+95579;Polateli
+95680;Bahçe
+95780;Kadirli
+95880;Osmaniye Merkez
+95980;Düziçi
+96080;Hasanbeyli
+96180;Sumbas
+96280;Toprakkale
+96381;Akçakoca
+96481;Düzce Merkez
+96581;Yýðýlca
+96681;Cumayeri
+96781;Gölyaka
+96881;Çilimli
+96981;Gümüþova
+97081;Kaynaþlý

@@ -1,0 +1,9 @@
+SQL DATABASE
+
+--- -1 CAPACITY ENROLLMENT RANK SCORE
+Dolmadı -2 CAPACITY ENNROLMENT RANK SCORE
+İÖ -3 SCHOLAR 
+Açıköğretim -4 SCHOLAR
+Uzaktan Öğretim -5 SCHOLAR
+Fırst_rank -6 because null
+general_enrollment -6 because null

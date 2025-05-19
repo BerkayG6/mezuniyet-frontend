@@ -1,0 +1,7 @@
+Capacity Number Dependicies:
+
+1-) Popularity between Departments
+2-) Last and first students' score difference
+3-) Field rates of each year
+4-) Average rank all students each departments
+5-) Field rate average all years

@@ -1,0 +1,1 @@
+22.02.2025 - Overfitting ortaya çıktı. X_test ve X_train'i predict ederken ikisinin de hata payı yakın çıkması gerekiyor.
